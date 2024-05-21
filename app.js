@@ -21,7 +21,19 @@ const app = express();
 
 // 1) GLOBAL MIDDLEWARES
 // Set security HTTP headers
-app.use(cors());
+app.use(
+  cors({
+    origin: '*',
+    allowedHeaders: [
+      'Content-Type',
+      'Authorization',
+      'Origin',
+      'X-Requested-With',
+      'Accept'
+    ],
+    credentials: true
+  })
+);
 app.use(helmet());
 
 // Development logging
