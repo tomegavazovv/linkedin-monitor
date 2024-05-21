@@ -182,7 +182,7 @@ exports.getListUrl = async function(listId, date = 'past-24h') {
   await this.populate({
     path: 'lists.monitoredUsers',
     match: { _id: { $in: this.lists.id(listId).monitoredUsers } }
-  }).execPopulate();
+  });
 
   const uniqueUrnsSet = new Set(
     this.lists.id(listId).monitoredUsers.map(user => `"${user.urn}"`)
