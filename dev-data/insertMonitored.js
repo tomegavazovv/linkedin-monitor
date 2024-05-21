@@ -1,0 +1,106 @@
+const { User } = require('../models');
+
+const monitoredUserIds = [
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60',
+  '66239795c3ab6343bd991bbc',
+  '6623992ec3ab6343bd991bc7',
+  '66239c715aab775011b6ce4c',
+  '6623a6055aab775011b6ce60'
+];
+
+(async () => {
+  const user = await User.findById('662135176b26218cee99343d');
+  user.lists
+    .id('662378130baf2433cd78ef4d')
+    .monitoredUsers.push(...monitoredUserIds);
+  user.save();
+  // await User.updateOne(
+  //   {
+  //     _id: '662135176b26218cee99343d',
+  //     'lists._id': '662378130baf2433cd78ef4d'
+  //   },
+  //   {
+  //     $addToSet: { 'lists.$.monitoredUsers': { $each: monitoredUserIds } } // Add to monitoredUsers array in the matched list
+  //   }
+  // );
+  // console.log('done');
+})();

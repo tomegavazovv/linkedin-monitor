@@ -6,10 +6,17 @@ const handleCastErrorDB = err => {
 };
 
 const handleDuplicateFieldsDB = err => {
-  const value = err.errmsg.match(/(["'])(\\?.)*?\1/)[0];
-  console.log(value);
+  const value = Object.keys(err.keyPattern);
+  if (value[0] === 'email') {
+    return new AppError(
+      'User with that email already exists. Try another one.',
+      400
+    );
+  }
 
-  const message = `Duplicate field value: ${value}. Please use another value!`;
+  const message = `Duplicate field value: ${value.join(
+    ':'
+  )}. Please use another value!`;
   return new AppError(message, 400);
 };
 
@@ -18,6 +25,21 @@ const handleValidationErrorDB = err => {
 
   const message = `Invalid input data. ${errors.join('. ')}`;
   return new AppError(message, 400);
+};
+
+const handleRegisterError = errors => {
+  const messages = [];
+  const emailError = errors.errors.email;
+  const passwordError = errors.errors.password;
+
+  if (emailError) {
+    messages.push('Please provide a valid email.');
+  }
+  if (passwordError) {
+    messages.push('Password must be longer than 8 characters.');
+  }
+
+  return new AppError(messages.join(':'), 401);
 };
 
 const handleJWTError = () =>
@@ -73,6 +95,8 @@ module.exports = (err, req, res, next) => {
       error = handleValidationErrorDB(error);
     if (error.name === 'JsonWebTokenError') error = handleJWTError();
     if (error.name === 'TokenExpiredError') error = handleJWTExpiredError();
+    if (error._message === 'User validation failed')
+      error = handleRegisterError(error);
 
     sendErrorProd(error, res);
   }

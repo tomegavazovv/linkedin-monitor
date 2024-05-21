@@ -1,7 +1,8 @@
 const crypto = require('crypto');
+const fs = require('fs');
 const { promisify } = require('util');
 const jwt = require('jsonwebtoken');
-const User = require('./../models/userModel');
+const { User } = require('./../models');
 const catchAsync = require('./../utils/catchAsync');
 const AppError = require('./../utils/appError');
 const sendEmail = require('./../utils/email');
@@ -18,20 +19,23 @@ const createSendToken = (user, statusCode, res) => {
     expires: new Date(
       Date.now() + process.env.JWT_COOKIE_EXPIRES_IN * 24 * 60 * 60 * 1000
     ),
-    httpOnly: true
+    httpOnly: true,
+    secure: false
   };
   if (process.env.NODE_ENV === 'production') cookieOptions.secure = true;
 
   res.cookie('jwt', token, cookieOptions);
 
+  const userDTO = {
+    lists: user.lists.map(list => ({ id: list._id, name: list.name }))
+  };
   // Remove password from output
   user.password = undefined;
 
   res.status(statusCode).json({
-    status: 'success',
     token,
     data: {
-      user
+      lists: userDTO.lists
     }
   });
 };
@@ -40,6 +44,21 @@ exports.signup = catchAsync(async (req, res, next) => {
   const newUser = await User.create({
     email: req.body.email,
     password: req.body.password
+  });
+
+  const user = await User.findById(newUser._id);
+
+  const list = await user.addList('test');
+
+  fs.readFile('dev-data/default_list.json', 'utf8', async function(err, data) {
+    const jsonData = JSON.parse(data); // Convert JSON string to JavaScript object
+
+    jsonData.forEach(mUser => {
+      const monitoredUserId = mUser._id.$oid;
+      user.lists.id(list.id).monitoredUsers.push(monitoredUserId);
+    });
+
+    await user.save();
   });
 
   createSendToken(newUser, 201, res);

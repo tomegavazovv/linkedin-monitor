@@ -1,4 +1,4 @@
-const User = require('./../models/userModel');
+const { User } = require('./../models');
 const catchAsync = require('./../utils/catchAsync');
 const AppError = require('./../utils/appError');
 const factory = require('./handlerFactory');
@@ -15,6 +15,18 @@ exports.getMe = (req, res, next) => {
   req.params.id = req.user.id;
   next();
 };
+
+exports.checkMonitored = catchAsync(async (req, res, next) => {
+  const { publicId } = req.params;
+  const user = await User.findById(req.user.id);
+
+  const exists =
+    user.monitoredUsersPublicIds.findIndex(pubId => pubId === publicId) !== -1;
+
+  res.status(200).json({
+    exists
+  });
+});
 
 exports.updateMe = catchAsync(async (req, res, next) => {
   // 1) Create error if user POSTs password data

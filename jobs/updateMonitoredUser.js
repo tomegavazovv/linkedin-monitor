@@ -1,15 +1,14 @@
-const MonitoredUser = require('../models/monitoredUserModel');
-const getRecentPostsFromActivityUrns = require('../utils/getRecentPosts');
+const { MonitoredUser } = require('../models');
+const filterBadFeed = require('../utils/feed/filterBadFeed');
 
 module.exports = agenda => {
   agenda.define('update monitored user', async job => {
     const { monitoredUserId } = job.attrs.data;
     const monitoredUser = await MonitoredUser.findById(monitoredUserId);
-    const { posts, activityUrns } = await getRecentPostsFromActivityUrns(
+    const filteredActivityUrns = await filterBadFeed(
       monitoredUser.activityUrns
     );
-    monitoredUser.posts = posts;
-    monitoredUser.activityUrns = activityUrns;
+    monitoredUser.activityUrns = filteredActivityUrns;
     monitoredUser.needsUpdate = false;
     await monitoredUser.save();
   });
