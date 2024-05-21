@@ -63,7 +63,7 @@ exports.getEngagements = async function(listId) {
         model: 'MonitoredUser',
         select: 'name headline profileImage company -_id'
       }
-    }).execPopulate();
+    });
 
     // Find the specific list from populated data
     const list = this.lists.id(listId);
@@ -94,7 +94,7 @@ exports.deleteFromList = async function(listId, userId) {
   // Find the list and populate only the specific monitoredUser with userId
   await this.populate({
     path: 'lists.monitoredUsers' // Adjust the path to target the nested document correctly
-  }).execPopulate();
+  });
 
   const { publicId } = this.lists
     .id(listId)

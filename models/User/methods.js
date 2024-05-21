@@ -51,7 +51,7 @@ exports.getPostsLiveFromList = async function(listId) {
     await this.populate({
       path: 'lists.monitoredUsers',
       match: { _id: { $in: this.lists.id(listId).monitoredUsers } }
-    }).execPopulate();
+    });
 
     const list = this.lists.id(listId);
     const { monitoredUsers } = list;
