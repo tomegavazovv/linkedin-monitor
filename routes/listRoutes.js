@@ -32,7 +32,7 @@ router
 router.route('/:id/engagements').get(listController.getEngagements);
 
 // Actions on lists
-router.post('/:id/uploadFinished', listController.awareListsUploaded);
+router.post('/awareSynced', listController.awareListsUploaded);
 router.post('/:id/add', listController.addToList);
 router.delete('/:id/:userId', listController.deleteFromList);
 router.post('/:id/commentToProfile', listController.commentToProfile);
