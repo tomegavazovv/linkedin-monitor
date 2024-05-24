@@ -108,6 +108,11 @@ exports.deleteFromList = async function(listId, userId) {
     .monitoredUsers.filter(mUser => mUser._id.toString() !== userId);
 
   this.lists.id(listId).monitoredUsers = filtered;
+  this.lists.id(listId).engagements = this.lists
+    .id(listId)
+    .engagements.filter(
+      engagement => engagement.monitoredUser._id.toString() !== userId
+    );
   await this.save();
 };
 

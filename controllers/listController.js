@@ -161,6 +161,7 @@ exports.commentToProfile = catchAsync(async (req, res, next) => {
 
   const user = await User.findById(req.user.id);
   await user.commentToProfile(id, urn, postUrn);
+  await user.skipPost(id, urn);
 
   res.status(200).json({ status: 'success' });
 });
