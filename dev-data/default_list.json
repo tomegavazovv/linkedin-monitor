@@ -1,865 +1,179 @@
 [
   {
-    "_id": {
-      "$oid": "66239795c3ab6343bd991bbc"
-    },
-    "activityUrns": [
-      "urn:li:activity:7187161497561686016",
-      "urn:li:activity:7187049808501628928",
-      "urn:li:activity:7187040634942152704",
-      "urn:li:activity:7187019157081624576",
-      "urn:li:activity:7187012238392639488",
-      "urn:li:activity:7186702914659246080",
-      "urn:li:activity:7186702860472991744",
-      "urn:li:activity:7186702871030099968",
-      "urn:li:activity:7186682557382475776",
-      "urn:li:activity:7186678306518228993",
-      "urn:li:activity:7186653916271439872",
-      "urn:li:activity:7186080925045166080",
-      "urn:li:activity:7186062199121989632",
-      "urn:li:activity:7185684649136799745",
-      "urn:li:activity:7185684145782591489",
-      "urn:li:activity:7184988813297893376",
-      "urn:li:activity:7184988834709815296",
-      "urn:li:activity:7184988628119404545",
-      "urn:li:activity:7184923087925100545",
-      "urn:li:activity:7184573092030005248"
-    ],
-    "needsUpdate": false,
-    "name": "Krste Simeonov",
-    "headline": "Enthusiastic about startups. Perpetual learner.",
-    "profileImage": "https://media.licdn.com/dms/image/D4D03AQEA65McwtaECg/profile-displayphoto-shrink_400_400/0/1696699660367?e=1718841600&v=beta&t=SewEzVOzU4Ll0t2Fm2pcUzH94YOXo3-S5x4UR8J8OgA",
-    "urn": "ACoAADVLk88BzHjV0liYuaQi125xrq_X8YGGjvc",
-    "posts": [
-      {
-        "_id": {
-          "$oid": "66239798c3ab6343bd991bc1"
-        },
-        "urn": "urn:li:activity:7179863132989779968",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQEA65McwtaECg/profile-displayphoto-shrink_400_400/0/1696699660367?e=2147483647&v=beta&t=ef3iB6OGfV0vvD7UGjC2V0qlAdBvV-nqrXDHMc3Tn8Q",
-        "name": "Krste Simeonov",
-        "headline": "Enthusiastic about startups. Perpetual learner.",
-        "date": "2w",
-        "text": "Now I better understand why my 12-year-old sister answered \"NO\" when I asked her: \"Are you Happy?\"\n\nHappiness = Health + Wealth + Quality Relationships\n\n---\n\nHealth = Exercise + Diet + Sleep + (Sunlight and avoiding drugs and alcohol)\n\nExercise = High Intensity Resistance Training + Sports/Cardio + Rest\n\nDiet = Natural food + Intermittent fasting + Plants\n\nSleep = No alarms + 8-9 hours + Circadian Rhythms + (Fully dark room + 18°C + no food and exercise at least 3 hours before sleep)\n\n---\n\nWealth = Income + Wealth * (Return On Investment)\n\nIncome = Accountability + Leverage + Specific Knowledge\n\nAccountability = Personal Branding + Personal Platform + Taking Risk\n\nLeverage = Capital + People + Intellectual Property\n\nSpecific Knowledge = Knowing how to do something that society cannot yet easily train other people to do\n\nReturn on Investment = Buy and Hold + Valuation + Margin of Safety\n\n---\n\nQuality Relationships = (Trust + Value + Dialog) * Complexity of the human nature  \n",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQFwIgXnSzvgtQ/feedshare-shrink_800/0/1711812764765?e=2147483647&v=beta&t=FvQg3k9-8Dn2xp_DPuoKcY6NmPfhHnz7K-2eZfArdio",
-        "likeCount": 78,
-        "commentCount": 6,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239798c3ab6343bd991bc2"
-        },
-        "urn": "urn:li:activity:7160680195719340032",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQEA65McwtaECg/profile-displayphoto-shrink_400_400/0/1696699660367?e=2147483647&v=beta&t=ef3iB6OGfV0vvD7UGjC2V0qlAdBvV-nqrXDHMc3Tn8Q",
-        "name": "Krste Simeonov",
-        "headline": "Enthusiastic about startups. Perpetual learner.",
-        "date": "2mo",
-        "text": "2 days of learning, socializing, exploring ideas and a whole 2 hours of sleep.",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQH-bycKzxx92A/feedshare-shrink_800/0/1707239196444?e=2147483647&v=beta&t=wKWhHxtMy8ZYmKngdqYSSCCiNwjTrBQnBsEL8h4mXx8",
-        "likeCount": 49,
-        "commentCount": 5,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239798c3ab6343bd991bc3"
-        },
-        "urn": "urn:li:activity:7131240582009520130",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQEA65McwtaECg/profile-displayphoto-shrink_400_400/0/1696699660367?e=2147483647&v=beta&t=ef3iB6OGfV0vvD7UGjC2V0qlAdBvV-nqrXDHMc3Tn8Q",
-        "name": "Krste Simeonov",
-        "headline": "Enthusiastic about startups. Perpetual learner.",
-        "date": "5mo",
-        "text": "Ништо на овој свет не е бесплатно. Кога нешто не се плаќа со пари, се плаќа со нешто поскапо, со нашето време и внимание. Верувам дека овој настан ќе вреди во замена за твоето време и внимание.\n\nps. Има уште 5 слободни места.📌 Reserve Your Spot Now- only 25 places open!\n\n🔊 Who are the Speakers?\nDennis Farcinsen Leth: Business Partner at Formula Swiss Medical and Mentor of many startups including LifeStraw, a celebrated Shark Tank winner.\nSanja Mitrovska: Founder of Networker- renowned for Design Sprint Methodologies for building investible startups and setting Guinness World Records in investor pitching.\n\n👥 Who Can Attend?\n- AI and startup enthusiasts eager to learn and grow.\n- Teams with a startup idea ready to take the next big step.\n\n📍 Venue:\nHive Room, nestled in the co-working spaces of Property One at Nastel Buildings, Boulevard September 8th No. 3/4, Skopje.\n\n🏆 What's in It for You?\nThe best team will earn a spot in the First Reality Show for Balkan Entrepreneurs, catapulting their startup idea into the spotlight.\n\n🤝 Organized by:\nNetworker and GEW\n& In Collaboration with:\nProCredit and Longest Pitch Marathon\nRegister here:https://lnkd.in/gyVvmrXU\n#AIStartupWorkshop #Innovation #Entrepreneurship #NetworkerEvent #ProCredit #LongestPitchMarathon",
-        "postImage": "https://media.licdn.com/dms/image/D5622AQHrArheIWVfDg/feedshare-shrink_800/0/1699980049996?e=2147483647&v=beta&t=wylXaWOizqLp-Q__gesHCgM8Zo15AE8Jo65irsuD1U4",
-        "likeCount": 7,
-        "commentCount": 0,
-        "repost": {
-          "urn": "urn:li:activity:7130233130552094724",
-          "profileImage": "https://media.licdn.com/dms/image/C4D0BAQGOJzBWMAJXjw/company-logo_100_100/0/1630549462015/mknetworker_logo?e=2147483647&v=beta&t=PG9zN6dbas5ppllbCSXsPhu6rm-M74dz9jhAaFi-4Q0",
-          "name": "Networker",
-          "headline": "1,787 followers",
-          "date": "5mo",
-          "text": "📌 Reserve Your Spot Now- only 25 places open!\n\n🔊 Who are the Speakers?\nDennis Farcinsen Leth: Business Partner at Formula Swiss Medical and Mentor of many startups including LifeStraw, a celebrated Shark Tank winner.\nSanja Mitrovska: Founder of Networker- renowned for Design Sprint Methodologies for building investible startups and setting Guinness World Records in investor pitching.\n\n👥 Who Can Attend?\n- AI and startup enthusiasts eager to learn and grow.\n- Teams with a startup idea ready to take the next big step.\n\n📍 Venue:\nHive Room, nestled in the co-working spaces of Property One at Nastel Buildings, Boulevard September 8th No. 3/4, Skopje.\n\n🏆 What's in It for You?\nThe best team will earn a spot in the First Reality Show for Balkan Entrepreneurs, catapulting their startup idea into the spotlight.\n\n🤝 Organized by:\nNetworker and GEW\n& In Collaboration with:\nProCredit and Longest Pitch Marathon\nRegister here:https://lnkd.in/gyVvmrXU\n#AIStartupWorkshop #Innovation #Entrepreneurship #NetworkerEvent #ProCredit #LongestPitchMarathon",
-          "postImage": "https://media.licdn.com/dms/image/D5622AQHrArheIWVfDg/feedshare-shrink_800/0/1699980049996?e=2147483647&v=beta&t=wylXaWOizqLp-Q__gesHCgM8Zo15AE8Jo65irsuD1U4",
-          "likeCount": 0,
-          "commentCount": 0
-        },
-        "engagement": []
-      }
-    ],
-    "__v": 1
+    "name": "Mel Robbins",
+    "headline": "Host of The Mel Robbins Podcast + New York Times Best Selling Author",
+    "profileImage": "https://media.licdn.com/dms/image/C4E03AQH96CUsov8Qew/profile-displayphoto-shrink_400_400/0/1661790881457?e=1721865600&v=beta&t=Nzs9UU6UeZiLNHiomcUaplO5xoqbxSbziYnaGETD1Fs",
+    "urn": "ACoAAAEKW8IB1JK6LTfn2z8mDEI605jI5UzWKu4",
+    "activityUrns": [],
+    "company": "Mel Robbins Media, Motivational Speaking & Coaching - 14 yrs 2 mos",
+    "publicId": "melrobbins"
   },
   {
-    "_id": {
-      "$oid": "6623992ec3ab6343bd991bc7"
-    },
-    "activityUrns": [
-      "urn:li:activity:7186751437228359682",
-      "urn:li:activity:7186727565401747456",
-      "urn:li:activity:7186727288619581440",
-      "urn:li:activity:7186727191576002560",
-      "urn:li:activity:7186707722132668416",
-      "urn:li:activity:7186699896316452865",
-      "urn:li:activity:7186697713709662208",
-      "urn:li:activity:7186696276522983424",
-      "urn:li:activity:7186690126259896320",
-      "urn:li:activity:7186689712839901184",
-      "urn:li:activity:7186687159590932481",
-      "urn:li:activity:7186686517921103872",
-      "urn:li:activity:7186685476148301825",
-      "urn:li:activity:7186682134214893568",
-      "urn:li:activity:7186059411834998785",
-      "urn:li:activity:7186017703915110400"
-    ],
-    "needsUpdate": false,
-    "name": "Nikola Velkovski",
-    "headline": "Co-Founder & CEO @ HeyReach",
-    "profileImage": "https://media.licdn.com/dms/image/D5603AQFfoQGEInbS4Q/profile-displayphoto-shrink_400_400/0/1678199501056?e=1718841600&v=beta&t=sKX8N2WnVGVYSePW2LsJSKRYdOZmj3ytKtpTNbx2AG0",
-    "urn": "ACoAACnLKjIBOKl2VnU995fAQH0ZTFLnQrmCnv4",
-    "posts": [
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bcc"
-        },
-        "urn": "urn:li:activity:7186681449150877698",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "1d",
-        "text": "📍 POSITIONING: Campaign tool vs. Operations tool\n\nIn the last two months, we brought our churn rate below 5%.\nAlso, this month our MRR has grown 36% more than the previous month, and we're growing 20-30% MoM consistently for 6 months.\n\nSo, what's the secret here?\n👉 HeyReach shifted the positioning from just \"a campaign tool\" to a tool that our users integrated into their operations.\n\nWe are selling mostly to lead-gen agencies (some even call us \"The Smartlead for LinkedIn). This ICP is the most creative one, experiments a lot, has the highest churn (compared to sales teams, recruiters, or individuals), and has the most complex outbound stack.\n\nMost of the lead-gen agencies use 5+ different outbound tools (eg: Clay, Instantly.ai, Smartlead, Retention.com, Zapier, HighLevel, Apollo.io & some other wild animals that ColdIQ has on their site). Their outbound stack is integrated and works in perfect harmony. \n\n🔹 We understood that if we wanted to become a part of their outbound stack (become \"sticky\", fix our retention, and skyrocket the growth), we needed to integrate deeply into their operations and provide the smoothest experience of doing it. We launched the most flexible LinkedIn API on the market, and dozens of webhook options to export HeyReach data anywhere.\n\nInstead of being just a campaign tool from where you can run LinkedIn outreach sequences, we decided to become \"the missing LinkedIn puzzle\" of the agencies' outbound stack, and complete the end-to-end streamlining of their outbound processes.",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQEnBLQRVn1P0g/feedshare-shrink_2048_1536/0/1713438378925?e=2147483647&v=beta&t=aeNRueDoU-liopYncUwiZ8np2x4Lm92PPh0rihOJiro",
-        "likeCount": 88,
-        "commentCount": 27,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bcd"
-        },
-        "urn": "urn:li:activity:7181325999861604354",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "2w",
-        "text": "Looking for a boost in our customer support team! 🚀\n\nPS: It's an in-office position, so only apply if you live in Skopje",
-        "postImage": null,
-        "likeCount": 40,
-        "commentCount": 0,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bce"
-        },
-        "urn": "urn:li:activity:7176616907633041408",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "4w",
-        "text": "🧙 LinkedIn Sales Navigator holds immersive power, like The Elder Wand (from Harry Potter). \n\nPairing it with HeyReach is like owning the other two Deathly Hallows!\n\nTargeting active LinkedIn users using Sales Navigator is an extremely useful technique! Thanks for sharing this, Reyhan Khan!I Improved my LinkedIn Outreach Results by 300% 📈 \n\n\nI recently built a campaign to interact with Sales Experts and build more use cases for AI tools and saw a 38.6% reply rate which is 4x more than my usual campaigns. So what's the hack?\n\nSales Navigator is one of the main sources of prospect lists for me. HeyReach allows me to pull search results directly into an engagement campaign.\n\nRecently, I tested by checking the \"Posted on LinkedIn\" option in Sales Nav when building my lists and it has done wonders. Simply put, you're only reaching out to people who are active on LinkedIn hence the chances of engagement are higher. \n\nAttaching campaign results as Proof.\n\n\n#coldoutbound #leadgeneration #linkedinnetworking",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQFaG25ahS9EuQ/feedshare-shrink_2048_1536/0/1710942413101?e=2147483647&v=beta&t=HkE7OLDqPFo_112N1jx0a3X9-ZlCf429OxNloSX4j6E",
-        "likeCount": 26,
-        "commentCount": 0,
-        "repost": {
-          "urn": "urn:li:activity:7176212614635544577",
-          "profileImage": "https://media.licdn.com/dms/image/D4D03AQGTcfWXhJhsaQ/profile-displayphoto-shrink_400_400/0/1680912985089?e=2147483647&v=beta&t=X7V0w2Ldv_v9bi674w2qJA-Q0H43889GqBUWAvp9a44",
-          "name": "Reyhan Khan",
-          "headline": "Head of Operations & AI Automation | Scaling Businesses with Systems & Automated Lead Gen",
-          "date": "1mo",
-          "text": "I Improved my LinkedIn Outreach Results by 300% 📈 \n\n\nI recently built a campaign to interact with Sales Experts and build more use cases for AI tools and saw a 38.6% reply rate which is 4x more than my usual campaigns. So what's the hack?\n\nSales Navigator is one of the main sources of prospect lists for me. HeyReach allows me to pull search results directly into an engagement campaign.\n\nRecently, I tested by checking the \"Posted on LinkedIn\" option in Sales Nav when building my lists and it has done wonders. Simply put, you're only reaching out to people who are active on LinkedIn hence the chances of engagement are higher. \n\nAttaching campaign results as Proof.\n\n\n#coldoutbound #leadgeneration #linkedinnetworking",
-          "postImage": "https://media.licdn.com/dms/image/D4D22AQFaG25ahS9EuQ/feedshare-shrink_2048_1536/0/1710942413101?e=2147483647&v=beta&t=HkE7OLDqPFo_112N1jx0a3X9-ZlCf429OxNloSX4j6E",
-          "likeCount": 0,
-          "commentCount": 0
-        },
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bcf"
-        },
-        "urn": "urn:li:activity:7174423629550534656",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "1mo",
-        "text": "🎉 $50K+ MRR in 10 months 🎉\n\nHeyReach just crossed $50K MRR, 10 months after earning its first buck.\nThis is a huge accomplishment for us, since we were 3 months away from bankruptcy back in June, and couldn't grow past $8K MRR until October.\n\n🎓 Key lessons I learned so far:\n\n• It takes time. Trust your team, trust your gut, and just move.\n- Growth takes time. The stories about super-fast growth are exceptions, and you shouldn't fall into the imposter syndrome. It took us 6 months, and 597 meetings to grow above $10K MRR. It's a marathon, not a sprint.\n\n• Niche down to grow\n- Check my last posts - talked a lot about this.\n\n• Focus on profitability, control your growth\n- Forget about GaaC (growth at all costs). It's sexy and looks great, but it's super easy to burn everything you have during these times.\n\n• We can do anything, we cannot do everything (at once)\n- Pick your battles. Most likely, your business feels like a \"leaky bucket\", and there are a gazillion problems you need to solve, features to add, bugs to fix, and directions to go in. Prioritize everything, take a snapshot of your tasks for that month/quarter, and just execute. Repeat this every month/quarter.\n\n• Customer-centric development is the way to go\n- Your short-term roadmap should be built by your customers & closed-lost deals. It's not rocket science - once you have your first 10-50 customers, just listen to them and build the product for their needs.\n\nHats off to the whole HeyReach team - cheers to you! 🍻\n\n🦄 Next milestone: 1M ARR.",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQGjuK7TOpWVJQ/feedshare-shrink_2048_1536/0/1710515885433?e=2147483647&v=beta&t=mu8hdJ8Dv_RzrOvD_G5dkt6qY2rFymHGTDGSEPM-nc0",
-        "likeCount": 390,
-        "commentCount": 46,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bd0"
-        },
-        "urn": "urn:li:activity:7170831024011112449",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "1mo",
-        "text": "With email outreach, you can only dream about the 30-60% reply rate you can get via LinkedIn as a channel (hats off to the exceptions).\n\nOn the other hand, with LinkedIn outreach, you can only dream about scaling your outreach to the extent you can reach with email as a channel (unless you are using HeyReach 😜).\n\n🧠 The biggest factor is: \nReplying to name@company.com vs. replying to a person.\n\nAnd this is my observation:\n- When you get a cold email from some company that you are not familiar with it's much easier to ignore it (we are used to ignoring cold emails), compared to getting a message from someone whom you already accepted in your network. The psychological background is that on LinkedIn you're replying to a person who has a profile picture, works somewhere, posts stuff on their profile, has interests, and most importantly - you decided to add/accept them in your network. On email you are just talking with an email address that maybe has a signature.\n\n💫 In the end, the core of sales is \"personal relationships\" - buying and selling to people, and the next best thing to in-person relationship building is LinkedIn.\n\nPS: IMO, if you can manage to be \"known\" to the prospect you're reaching out to (i.e. they've seen your content, they know about your company, etc.) your overall outreach can perform much much better, regardless of the outreach channel. Content-led sales FTW! 🤘",
-        "postImage": "https://media.licdn.com/dms/image/D5622AQFmx07e91YUdg/feedshare-shrink_2048_1536/0/1709659342392?e=2147483647&v=beta&t=YSczlEJCiHS2cct6Z5tOa9IZSaRoWzsw-ZsjjJx4tGo",
-        "likeCount": 83,
-        "commentCount": 16,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bd1"
-        },
-        "urn": "urn:li:activity:7168986581540827138",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "1mo",
-        "text": "📊 LinkedIn outreach to your free trial users: 8% to %16 conversion rate increase\n\nWhat if you can connect with everyone who has shown interest in your product, get them to your network, and start a conversation with them? A precious thing 💎 for a founder - right?\n\nOne of our newest & gonna-become-a-go-to-campaign at HeyReach is auto-connecting with our free trial users, and reaching out to them. This campaign has brought amazing results so far and has doubled out fully-activated to converted rate.\n\n🔗 Acceptance rate: 64.1%\n💬 Reply rate: 25.3%\n\nYou can do the same thing for your SaaS, and I'll show you how we do it.\n\n🔰 Step-by-step:\n1. Upload your list of free trials in HeyReach\n- Nikola Siljanoski adds the new free trial users in HeyReach every morning, into a list we call \"Free Trial Signups\". If you don't have their LinkedIn profiles, feel free to reach out to Rahul Lakhaney with Enrich.so to understand how to convert their email addresses to a LinkedIn profile.\n\n2. Automated HeyReach sequence\n- We start by sending an automated blank connection request. So, the free trial user gets a connection request from the founder of the tool they'd just started a free trial. Pretty nice, huh?\nThen, after 4 days (enough time to play around with the tool), we send a simple automated message that says:\n➡️ \"Hey hey {firstName}, tnx for accepting me! How's your HeyReach experience so far?\".\n\nAnd that's it. A simple conversation-starter that helps me get in touch with our customers.\n\n3. Talk to your free trial users\n- Most of the users you reach out to reply back, and your only job here is to listen to their feedback and help them if they are stuck somewhere in their activation journey.\n\n📈 This approach has doubled our activated to converted rate, and has helped me talk to our potential users.\n\nCheck the comments for a link to the blog post, where I showcase the whole sequence! 🍻\n",
-        "postImage": "https://media.licdn.com/dms/image/D5622AQEbXflBy_0i6A/feedshare-shrink_2048_1536/0/1709219593544?e=2147483647&v=beta&t=7rN8zP7aFqWUH108UHaoMCX5uS_U1eVy4TtNRla42nE",
-        "likeCount": 56,
-        "commentCount": 11,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bd2"
-        },
-        "urn": "urn:li:activity:7161752502101643264",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "2mo",
-        "text": "Niche down to expand - how to do it successfully?! 🎣\n\nHaving a huge TAM is crucial for building a huge business, but finding a really specific niche is the most important first step of your journey. \nWe started growing 34% MoM on avg. after we niched down to a super-specific audience. \n\nI do believe that niching-down will be really important in 2024, as it’s really tied to the concept of controlled profitable growth.\n\n✨ Niche = very specific audience that’s part of your TAM, where you bring 10x value, it’s easy to sell to, the sales cycle is shorter, and they stick with you even when you are buggy. Think of it as a mini-PMF, or a single ICP (ideal customer persona) where you can kill it.\n\n📐 Our formula for niching down to the right audience:\n1. Just ship it, and reach out to your ‘first hypothetical ICP’ \n- Just launch your first version of your product and start reaching out to your ICP. Keep in mind that your first hypothesis of the ICP may be completely missed, but don’t feel bad about it. Just iterate until you find it (you have time until you burn out the money).\n\n2. Talk to the closed-won and closed-lost customers. All. The. Time. \n- This is a continuous process that should help you determine what’s the right initial ICP (your niche). Keep attention to the deals you’ve lost, the deals you’ve won, the users that churned, and the users that are still with you. Ask them ‘why’, and ALWAYS try to truly understand them (their job position, their role, how they are thinking, how they found you, etc.). Be super specific in the details.\n\n3. Your closed-lost deals should build your short-term roadmap \n- This is applicable only after you’ve found your niche. Start tracking the reasons for losing deals (features, pricing, bugs, etc.), as those things will be your short-term product roadmap. Do this until you become the go-to solution in your niche.\n\n4. Become the go-to solution for your niche, and then expand \n- Stay focused on your niche until you dominate it. Build the features they need, improve their experience, and get that sweet market share. However, don’t feel too comfy, as you shouldn’t stop here. As Jason M. Lemkin says, the most important job of the CEO is to continuously expand the TAM, year by year. 💥",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQFRv-oZ2tVMtA/feedshare-shrink_2048_1536/0/1707494854208?e=2147483647&v=beta&t=t_8umzIVIH2gefeGxvf4L5XbekOp0JNRU0goCd5e668",
-        "likeCount": 60,
-        "commentCount": 5,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bd3"
-        },
-        "urn": "urn:li:activity:7160313846014853121",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "2mo",
-        "text": "'Growth at all costs' mindset may kill your startup 💀\n\nBack in the days (2020-2023), the typical advice you'd hear as a VC-backed startup was \"spend more\". The main approach was to be maniacally focused on growth and grabbing a bigger market share. The founders were acting like hungry hyenas pouring money into everything that brings growth, overhiring, overspending, and doubling down on untested channels that might bring growth. \n\nGrowth, growth, growth! (in Steve Ballmer's \"developers, developers, developers\" voice) 🌱\n\nIn the last couple of months, I've seen a lot of startups going down because of this mentality. \n\nHowever, the 'growth' is not the problem. The uncontrolled growth and constant stepping on the gas pedal without a working engine is. \n\nIt's really easy to get into this GAAC (Growth at all costs) mindset before even remotely figuring out, be blinded by the Silicon Valley stories about raising hundreds of millions in Series A, and hope that VC money will always be here to save your company when the things go south. \nIf you don't figure it out fast, if you don't have control over the direction you are going, and if you are not obsessed with building a real business the chances of failing are pretty high nowadays.\n\nIn June 2023, we were 3 months away from bankruptcy, burning $35-40K per month. It was a wake-up call for us. \n\n🔹 Lesson learned: Keep it lean until you are pretty positive that you know what you are doing, and you have a pretty good feeling and data informing you that you are ready to scale, burn, and double down on growth.\n\n2024 is the year of predictable and controlled growth with a focus on profitability. Even for VC-backed startups (that are in the process of raising their next round). 📈",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQG-7-mUBtdEnw/feedshare-shrink_800/0/1707151851301?e=2147483647&v=beta&t=S0hsjoYtcXywXE9Jjllwa9wKw4kBkdqBzycnKZX7iBc",
-        "likeCount": 74,
-        "commentCount": 1,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bd4"
-        },
-        "urn": "urn:li:activity:7157810114219982849",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "2mo",
-        "text": "Do you know that everyone on the HeyReach team does outreach? \nYep, even the devs... 🏹\n* You might even get a message from our CTO, Stefan Kotevski.\n\nHowever, none of them *really* send messages or manage their inboxes. \nThey just have their LinkedIn profiles connected to one automated outreach campaign, and Nikola Siljanoski handles the replies and book demos on their behalf.\n\nYep, one BDR managing 13 LinkedIn sending accounts - from one simple dashboard.\n\nThis way, we can scale our outreach 10x, by using our whole team's accounts. That's 10+ LinkedIn accounts (each one of them sending 20 invites per day), connected on one outreach campaign, automatically rotating their inboxes. \n\nThis approach allows us to reach 200 prospects per day on LinkedIn, totally automatically - with the effort of a single BDR. 🤯\n\n🔹 What about the privacy? Do you read their inboxes?\n- Nope. HeyReach has a built-in feature that allows you to select your privacy mode for each LinkedIn account (i.e. only share the conversations started with HeyReach).\n\n🎥 3-minute video tutorial in comments!",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQFx4YI-96bSkA/feedshare-shrink_2048_1536/0/1706554915298?e=2147483647&v=beta&t=T0xNkIITBDLqBO4g4DNcJHPLfHTHR9dlJG5_Zl_RkZw",
-        "likeCount": 89,
-        "commentCount": 11,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239934c3ab6343bd991bd5"
-        },
-        "urn": "urn:li:activity:7156322716302618624",
-        "profileImage": "https://media.licdn.com/dms/image/D4D03AQF9mAcmgszNEw/profile-displayphoto-shrink_400_400/0/1713280369752?e=2147483647&v=beta&t=_JLrC8RhlECXXRgq9IQAO1Q-vwszGZ1jnGZP4eJy6K4",
-        "name": "Nikola Velkovski",
-        "headline": "Co-Founder & CEO @ HeyReach",
-        "date": "2mo",
-        "text": "Selling to SMBs is underrated. 👎\n\nMost companies aim at bigger customers, going with the fact that the deal size is higher ($$$$$), the retention is much better, you deal with fewer customers, etc.\n\nWhile all of this is true, there are some huge drawbacks. The sales cycles are much longer, multiple decision-makers, the outbound approach is different (ABM, requires involvement of the executives, multiple stakeholders, etc.), there's a legal part involved, and there's *almost* always a special requirement.\n\n⭐️ PROs of selling to SMBs:\n• You most likely don't deal with procurement, extensive negotiations, or legal stuff (it can be exhausting, trust me!) \n• Short sales cycles, especially if you have a \"product-customer fit\" (different from product-market fit, Bogdan Pasca kudos for the term)\n• If you are a startup, you most likely are closer to their mindset and modus operandi (compared to the mid-market/enterprise customers), and you do understand your customers better\n• Founder-led sales work like a charm, the costs of the tools are SMB-friendly, there's a much larger pool of prospects\n• PLG, word-of-mouth, simple affiliate & sales processes\n\nPS: The picture below is a small leadgen agency (up to 50 LinkedIn seats), that Ilija Stojkovski closed in a 19 min demo! \n\nNo procurement, no negotiations. The simple ol' \"Free Trial & Convert\" 😎",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQHMjqofT9ytSQ/feedshare-shrink_2048_1536/0/1706200292196?e=2147483647&v=beta&t=vZ4ZGI9NOu-d5MVXuFby3BLqVF6ut52-2h79XhxGwtg",
-        "likeCount": 69,
-        "commentCount": 7,
-        "engagement": []
-      }
-    ],
-    "__v": 1
+    "name": "Jordan Peterson",
+    "headline": "Professor Emeritus of Psychology at University of Toronto",
+    "profileImage": "https://media.licdn.com/dms/image/C4D03AQGrk6TtUakefA/profile-displayphoto-shrink_400_400/0/1649854039691?e=1721865600&v=beta&t=yYXjtOE9d5-Q-MogmJqB_C_dcexlnpIhIHyNhMBqfN8",
+    "urn": "ACoAAADfrmwByKukaxhV5Vxzt4ykmFrHGgeckNw",
+    "activityUrns": [],
+    "company": "Vice President - ExamCorp",
+    "publicId": "jordanbpeterson"
   },
   {
-    "_id": {
-      "$oid": "66239c715aab775011b6ce4c"
-    },
-    "activityUrns": [
-      "urn:li:activity:7187084302445158400",
-      "urn:li:activity:7186859718831718400",
-      "urn:li:activity:7186775520162791424",
-      "urn:li:activity:7186504088589590528",
-      "urn:li:activity:7186504034537664512",
-      "urn:li:activity:7186503877603561472",
-      "urn:li:activity:7186423125142560769",
-      "urn:li:activity:7186316708268130306",
-      "urn:li:activity:7186272256753352704",
-      "urn:li:activity:7186272174888927232",
-      "urn:li:activity:7186116441421594624",
-      "urn:li:activity:7186116217273802752",
-      "urn:li:activity:7186069282605174784",
-      "urn:li:activity:7186027013122514944",
-      "urn:li:activity:7184935786646016000",
-      "urn:li:activity:7184858326097154048",
-      "urn:li:activity:7184858347689426944",
-      "urn:li:activity:7184607827200458753",
-      "urn:li:activity:7184543700729950208",
-      "urn:li:activity:7184330299663671297"
-    ],
-    "needsUpdate": false,
-    "name": "Nikola Sokolov",
-    "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-    "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=1718841600&v=beta&t=fBfrOqJMR1mZp73yPZ9FyXDcYYA3IbrsM43hoZRtEOg",
-    "urn": "ACoAABFPVRMBu-REjD7wRNCmQ0pwZS0XRtuz6rA",
-    "posts": [
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce51"
-        },
-        "urn": "urn:li:activity:7186076006271639552",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "3d",
-        "text": "One thing that fascinates me so much about people blaming MKBHD for \"killing this (useless) company\" is the fact that a guy with a camera and 0 in funding matters more than $200M+ funded company.\n\nLet that sink in. Never before in history has this been possible. What an incredible world we live in.\n\nGo creators!\n",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQG7nrfbiK_Iuw/feedshare-shrink_2048_1536/0/1713294029324?e=2147483647&v=beta&t=-8xbOTZq2LaRUW36-P4fq4lRdEWBz_VQatTjr1ppIXw",
-        "likeCount": 55,
-        "commentCount": 6,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce52"
-        },
-        "urn": "urn:li:activity:7185719917139136512",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "4d",
-        "text": "I am so lucky that Influencers.club is growing as a company without me convincing everyone to post or care about Linkedin.\n\nCan't stand shameless self-promotion, and I am quite sick of all the \"look at me me me\" posts. \n\nThe point of content is creating value (or fun), not to look at all the product features you are adding. \n\nIf you can combine value for your audience and still benefit your company, amazing! You rock. But if not, please think twice about whether this is the channel for you. \n\nIt's not the end of the world if you are not good at Linkedin. There are countless other channels out there.\n\nI like most of you, and I am here only because I think someone can benefit from our journey, research, or data. \n\nHere is a picture of our office cat sitting next to me atm, for fun.",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQEBx7lKRJIrpw/feedshare-shrink_800/0/1713209131622?e=2147483647&v=beta&t=2ssuqBHAjoP63VFcjj5LKcVXRm9cc4h81YU2M1PbVyQ",
-        "likeCount": 163,
-        "commentCount": 4,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce53"
-        },
-        "urn": "urn:li:activity:7184598485910884352",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "1w",
-        "text": "At the end of every week, I keep realizing more and more that life happens while we build.\n\nThere is no end goal. Maybe we'll make it, maybe we won't. \n\nARR, MRR, CTR, whatverR, are just metrics that keep us doing what we are doing but you have to feel good at work and around the people you work with. \n\nThere is no exit strategy that can make as long-lasting an impact as the work you are doing and who you are doing it with.\n\nHere is part of my Friday night crew <3",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQFrxfF-AK31pw/feedshare-shrink_800/0/1712941761636?e=2147483647&v=beta&t=qVQv-L3stMLnf7NT4xkKlRK0kk3mM1diJJQEKpeAhA0",
-        "likeCount": 128,
-        "commentCount": 10,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce54"
-        },
-        "urn": "urn:li:activity:7183066667373969408",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "1w",
-        "text": "I cheated on Ivan Nedelkovski.... \n\nNe mi se luti :D \n\nShala na strana, super muabet so Georgi Dokuzov i malku po deep dive vo influencers.club. Plus na Georgi mu pravev i malce neprijatno taka da i toa ke gledate 😂\n\nPoveleteeee 👀\n\nhttps://lnkd.in/dT6mzrpZ",
-        "postImage": null,
-        "likeCount": 103,
-        "commentCount": 6,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce55"
-        },
-        "urn": "urn:li:activity:7173409019573780480",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "1mo",
-        "text": "Time for a #datastory: In the last newsletter, Kaya Yurieff published how \"Linktree Jumps Into Social Commerce\" and here are three reasons why that makes a TON of sense.\n\n1️⃣ Linktree's Market Cap\n\nIn the first picture, you have Linktree's market cap compared to other link-in-bio tools from 2021 until now. \n\nNotice how the funding of many competitors didn't phase Linktree at all. There are a few companies that grew like Beacons, Milkshake etc, but not at the cost of Linktree users.  * We analyzed 71 link in bio tools but are displaying only the top 10. \n\nWhat this means is that Linktree is still the #1 tool and their word-of-mouth growth is as strong as ever.  \n\n2️⃣ Instagram's poor adoption of the multiple links in bio feature\n\nInstagram added the option for creators to add multiple links in their bios. TechCrunch published an article stating how Meta takes on Linktree, Beacons etc. \n\nWell, that didn't turn out that well. \n\nThe number of creators who use that feature is ~.02% from the sample of creators we analyzed vs Linktree links at ~12.5%. So you don't have to do the math, that's 62,400% more in favor of Linktree.\n\n3️⃣ Social Commerce Happening Inside Linktree Already\n\nThis is probably the main one, there are 13.7% of our sample creators linking to either LTK, ShopMy, or Amazon inside their Linktree link vs only 0.6% who have those 3 as their main link in bio. \n\nThat's a solid chunk and as the data shows far more are using social commerce links inside Linktree than just as their main links. So it makes sense that as a company they would definitely try to use this to their advantage.\n\nHow this all plays out I am not sure, but what I am quite sure is that Linktree is not going anywhere, and judging by the data this should be a very good business move for them.\n\nAgain, this is not sponsored by anyone nor do I have something to gain from it. It's just interesting to see how these business moves are supported by data.",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQGnkI0KuMsl9A/feedshare-shrink_800/0/1710273984736?e=2147483647&v=beta&t=Y5ljOWz5OYueInivvnX3Xd5yJiku0RFL71ErxfI82TQ",
-        "likeCount": 31,
-        "commentCount": 2,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce56"
-        },
-        "urn": "urn:li:activity:7171924034748715008",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "1mo",
-        "text": "Internship positions at Influencers.club 🥳\n\nWe are looking for 2 interns to join our content team! You'll be working directly with me on my Linkedin content.\n\nOne position is more operational: research, collaboration outreach, trending topics, etc. \n\nAnd the other is more about making the posts look pretty (to be honest anything is better than my editing skills right now 😂).\n\nBoth will lead to a full-time role.\n\nIf you want to apply or know anyone who does, you can do it here: https://lnkd.in/dCYZDZqi\n\nElena Kostovska looking at you if you have someone to refer 👀😂\n",
-        "postImage": null,
-        "likeCount": 58,
-        "commentCount": 1,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce57"
-        },
-        "urn": "urn:li:activity:7171593286086856704",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "1mo",
-        "text": "Staying bootstrapped when times were wild was one of the best moves we made as co-founders.\n\nWe were a profitable company in the very early days and growing at a great pace, BUT we were\n\n-> struggling to hire engineers\n-> other more senior people didn’t even want to hear about joining a “Macedonian bootstrapped startup”\n-> any serious company in our industry thought that we were an Eastern European joke\n\nSo I have to admit, raising at that time would have been a relief from the constant battle to solve those issues.\n\nBut they didn’t necessarily have to be solved with capital. They could be solved by us working our asses off until we proved that we are worth it.\n\nAnd we did.\n\nThen 2021 came.\n\nMoney started raining from everywhere. We spoke to companies that had much less than 0 in revenue and yet raised tens of millions of dollars.\n\nSo we got offers too.\n\n“You are missing out if you are not raising a round now.”\n“Money is free; you should take it!”\n“The creator economy will be worth trillions of billions of millions of dollars; get that money now.”\n\nMostly thanks to Hugo Amsellem and Boris Sokolov (I almost cracked at that point), we put our heads down and focused on the fundamentals again, working tirelessly but keeping the company independent.\n\nWe didn’t sprint; we ran a marathon. 20% growth, then another 20%, and then another 20%.\n\nThen 2023 happened. A big, big percentage of the companies that raised those millions are going under or selling for peanuts.\n\nAnd influencers.club? Well, we continued with our 20% growth marathon.\n\nNot distracted by shiny things, not letting the market blind us, and focusing only on fundamentals.",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQHFlSuszYPgVg/feedshare-shrink_2048_1536/0/1709841079152?e=2147483647&v=beta&t=85LKUMU9R3PSHMlQvuxYvyFQ9nkMcKbLvqyKHS_vuwo",
-        "likeCount": 234,
-        "commentCount": 13,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce58"
-        },
-        "urn": "urn:li:activity:7171227110450143235",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "1mo",
-        "text": "Curious about what kind of YouTubers you'll meet at VidCon?\n\nI took 30,000 YT creators who have posted about Vidcon to try to come up with the \"average YouTube creator\" attending the conference. \n\nHere are the stats:\n\n  ▶ Average YouTube Subscriber Count: Around 146,666 subscribers. (impressive!)\n  ▶ Average YouTube Video Count: Approximately 128 videos uploaded to their channel\n  ▶ Average YouTube Views: An average of about 117,023 views per video\n  ▶ Average YouTube Engagement Percent: Approximately 4.80% engagement rate\n  ▶ They are mostly English-speaking although we detected 23 different languages in the dataset\n\nMy thoughts: These are impressive numbers for all companies that want to meet quality, dedicated creators in person. \n\nFun fact: There were more than 1000 creators above 1M followers in the dataset and the creator with the highest average view count (15M) was from India.\n\nThis post is in no way sponsored by Vidcon btw, it was just fun to do. Buy your tickets now!",
-        "postImage": "https://media.licdn.com/dms/image/D4E22AQGzx97p70Q4XA/feedshare-shrink_2048_1536/0/1709753775678?e=2147483647&v=beta&t=SNmfJ-OujtRKSmFKnsnEd0ye-8iYFpqZg-RWMkm87kA",
-        "likeCount": 71,
-        "commentCount": 14,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce59"
-        },
-        "urn": "urn:li:activity:7169027530249719810",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "1mo",
-        "text": "One year into the #AI revolution and #creators are using AI almost 300% more than last year!\n\nOne year ago, we worked with one of the biggest beauty brands in the world 👀  to survey 500 beauty creators (10k+, US, beauty niche) with a few questions one of them being:\n\n \"Are you using any AI tools for content creation?\"\n\nThe results were the following:\n\n▶ 49.7% No, but I'm open to trying \n▶ 11% Yes, I use them regularly \n▶ 16.2% Sometimes when I'm feeling stuck or need some help \n▶ 23.1% No, I'm not planning on using them\n\nNow a year later, we asked the same question again, and the results are incredible.\n\n▶ 29.6% said they use AI regularly (Almost x3!!!)\n▶ 37.1% said no but I am open to trying them out \n▶ 22.2% Sometimes when I'm feeling stuck or need some help \n▶ 11.1% No, I'm not planning on using them ( half of what the number was last year)\n\nHere is me in Lisbon amazed at the results. If you are here btw, let's meet up!\n",
-        "postImage": "https://media.licdn.com/dms/image/D4E22AQFbQmLXX1I-ew/feedshare-shrink_2048_1536/0/1709229355491?e=2147483647&v=beta&t=NuiZlx-GedFf97WIR0MlB1aMFNzqqWjoioBXYEXzkuE",
-        "likeCount": 198,
-        "commentCount": 9,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "66239c735aab775011b6ce5a"
-        },
-        "urn": "urn:li:activity:7166148065710522368",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHl2E0S4PWjiQ/profile-displayphoto-shrink_400_400/0/1540730663222?e=2147483647&v=beta&t=t996PIf1z0grN4LBaj5Gd4HEA9nzATkAVeXhH4Wd_EA",
-        "name": "Nikola Sokolov",
-        "headline": "Helping A-star creator economy companies grow. Co-Founder @influencers.club",
-        "date": "1mo",
-        "text": "OpenAI releases Sora, Pinterest Launches First-Ever Streaming Show in Partnership with Tastemade, Apple Vision Pro now has a native TikTok app and more.",
-        "postImage": null,
-        "likeCount": 22,
-        "commentCount": 0,
-        "engagement": []
-      }
-    ],
-    "__v": 1
+    "activityUrns": [],
+    "name": "Matt Gray",
+    "headline": "Founder & CEO, Founder OS | Proven systems to grow a profitable audience with organic content.",
+    "profileImage": "https://media.licdn.com/dms/image/D4E03AQE3vK-6anIV3Q/profile-displayphoto-shrink_400_400/0/1686793511383?e=1721260800&v=beta&t=gwO_jg1j-Kgzwk7sgHxlj6ImlmomuR9y6ubxZSxrVN8",
+    "urn": "ACoAAAz_E4ABXwLR-Re5jw3nQyvdgKuJcoA8xWY",
+    "company": "Founder & CEO - Founder OS · Full-time"
   },
   {
-    "_id": {
-      "$oid": "6623a6055aab775011b6ce60"
-    },
-    "activityUrns": [
-      "urn:li:activity:7186204462598758402",
-      "urn:li:activity:7184620281045409794",
-      "urn:li:activity:7183742859492134912",
-      "urn:li:activity:7183538131344781312",
-      "urn:li:activity:7183510379719737345",
-      "urn:li:activity:7183067662917267456",
-      "urn:li:activity:7182671701036457985",
-      "urn:li:activity:7182052812179075074",
-      "urn:li:activity:7182003041309507585",
-      "urn:li:activity:7181999219946242050",
-      "urn:li:activity:7180515244409044994",
-      "urn:li:activity:7180489883969339392",
-      "urn:li:activity:7179881294032478208",
-      "urn:li:activity:7178844920898535424",
-      "urn:li:activity:7178325305797844993",
-      "urn:li:activity:7178146655408406528",
-      "urn:li:activity:7178056080961191936",
-      "urn:li:activity:7176478436805218304",
-      "urn:li:activity:7176303224327442433",
-      "urn:li:activity:7176219712459005954"
-    ],
-    "needsUpdate": false,
-    "name": "Kiril Dameski",
-    "headline": "Helping A-star creator economy companies grow | Head of marketing @ Influencers Club",
-    "profileImage": "https://media.licdn.com/dms/image/C4E03AQEIEN1eoeI2Bw/profile-displayphoto-shrink_400_400/0/1581886218024?e=1718841600&v=beta&t=FVJL4vVegx8XhsFNM2-xJ162u8Cj93cdignsIY1tDAM",
-    "urn": "ACoAAB5F9TMBtfRAXJshPY9Gp930_yJRVDiBZa4",
-    "posts": [
-      {
-        "_id": {
-          "$oid": "6623a6085aab775011b6ce65"
-        },
-        "urn": "urn:li:activity:7166501148827365376",
-        "profileImage": "https://media.licdn.com/dms/image/C4E03AQEIEN1eoeI2Bw/profile-displayphoto-shrink_400_400/0/1581886218024?e=2147483647&v=beta&t=ISa6g0Zx7rdhSU7K35sK782g3yVJqiG6OioxfJO3kbM",
-        "name": "Kiril Dameski",
-        "headline": "Helping A-star creator economy companies grow | Head of marketing @ Influencers Club",
-        "date": "1mo",
-        "text": "Uscreen is a bootstrapped, 20M+ ARR brand. Let’s see how they are helping video creators.\n\nUscreen is an all-in-one video membership platform. \n\n25k+ professional #creators (trainers, educators, coaches, entertainers) use the platform to:\n\n1️⃣ Set up memberships - sell or rent content on a pay-per-view basis\n2️⃣ Launch their own app - making content accessible on mobile, TV, web 🤯\n3️⃣ Build a self-sustaining community\n4️⃣ Have a Netflix-style video catalog, do live streaming, and more\n\nFounded in 2014 by PJ Taei who is a college dropout ✅ and a x2 founder: \n\n“We happened to be at the right place and at the right time with the pandemic. \n\nBy the time the pandemic hit, we had a full-featured product that sold itself. \n\nOur SEO engine was primed with useful content for creators looking to move their businesses towards video memberships.”\n\n→ Employees: 130+\n→ End users: 9.7M \n→ Basic pricing: $199/mo\n→ Notable customers: Yoga with Adrienne, Amy Landino, Brandon Washington, OnlyPaige.\n→ Leadership:\n PJ Taei - CEO & Founder\n Srey Sankar - CMO\n Matt Estes - COO\n Nick Savrov - CTO\n\nThanks Rob Balasabas, Salma Madwar, and Laura James for providing me with all the info I needed. 🤟 \n\n--------------------------------------------------------\n\nI’m trying to better understand top creator companies.\n\nWhat's their product, target audience, and overall, how are they influencing the #creatoreconomy.\n\nWould love to hear your suggestions on who should be next? 👇",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQHAmM68bd2QiQ/feedshare-shrink_800/0/1708593659807?e=2147483647&v=beta&t=aJYIf3Qe8oiZpDtXTDRXNCjtrudxFq8ODJOCKd861_M",
-        "likeCount": 45,
-        "commentCount": 7,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623a6085aab775011b6ce66"
-        },
-        "urn": "urn:li:activity:7164200542045421568",
-        "profileImage": "https://media.licdn.com/dms/image/C4E03AQEIEN1eoeI2Bw/profile-displayphoto-shrink_400_400/0/1581886218024?e=2147483647&v=beta&t=ISa6g0Zx7rdhSU7K35sK782g3yVJqiG6OioxfJO3kbM",
-        "name": "Kiril Dameski",
-        "headline": "Helping A-star creator economy companies grow | Head of marketing @ Influencers Club",
-        "date": "2mo",
-        "text": "Hiring Alert 📢\n\nAt Influencers.club, we’re expanding the marketing team to build the biggest creator discovery and outreach platform for the #creatoreconomy. \n\nLooking for individuals who have a hunger to grow, the patience to test things, and perseverance in execution.\n\n→ Growth Lead\n→ SEO Content Writer(s) \n→ Frontend Developer\n\nIf you’re looking for a way to make a massive impact and are passionate about building and scaling SaaS products, we want to hear from you.\n\nPlease tag yourself or someone you recommend, in the comments below for any of the above roles. You can also drop me a message along with your resume on Linkedin.\n\nWant to join us in shaping the future of the creator economy? ⬇️\n\n#hiring #startup ",
-        "postImage": null,
-        "likeCount": 162,
-        "commentCount": 81,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623a6085aab775011b6ce67"
-        },
-        "urn": "urn:li:activity:7163986226801229824",
-        "profileImage": "https://media.licdn.com/dms/image/C4E03AQEIEN1eoeI2Bw/profile-displayphoto-shrink_400_400/0/1581886218024?e=2147483647&v=beta&t=ISa6g0Zx7rdhSU7K35sK782g3yVJqiG6OioxfJO3kbM",
-        "name": "Kiril Dameski",
-        "headline": "Helping A-star creator economy companies grow | Head of marketing @ Influencers Club",
-        "date": "2mo",
-        "text": "63 Tiktokers shared with us how much money they made in 2023. \n\nDespite having ≈100k fans, over half of them made less than $1k. 😢 \n\nBut I have to give a bit of context about the creators we reached out to. \n\n↳ Location: UK, US \n↳ TikTok fans: 90k - 110k\n↳ Have less than 20k fans on Instagram or Youtube\n\nSo, we targeted TikTokers who weren't popular on other platforms.\n\nIt's obvious that creators can't rely only on Tiktok and that they need a cross-platform presence. \n\nOn the other hand, we can see that there are still a ton of creators who need assistance with their businesses (tools, strategies, operational help, etc). \n\nAnd that need will only increase. \n------\n\nHave a topic in mind for our next creator survey? 👇 ",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQGyfZkxTUwJYw/feedshare-shrink_800/0/1708027416098?e=2147483647&v=beta&t=f8lTeKx1AjyjHfu9ISXXM_jyKABWieYBBS8EkmOCXd8",
-        "likeCount": 52,
-        "commentCount": 6,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623a6085aab775011b6ce68"
-        },
-        "urn": "urn:li:activity:7161460736865517570",
-        "profileImage": "https://media.licdn.com/dms/image/C4E03AQEIEN1eoeI2Bw/profile-displayphoto-shrink_400_400/0/1581886218024?e=2147483647&v=beta&t=ISa6g0Zx7rdhSU7K35sK782g3yVJqiG6OioxfJO3kbM",
-        "name": "Kiril Dameski",
-        "headline": "Helping A-star creator economy companies grow | Head of marketing @ Influencers Club",
-        "date": "2mo",
-        "text": "Here's why the biggest B2C brands target influencers who build communities. \n\nBased on data from 100k creators we can finally see the impact communities have on engagement rates. \n\nAre you ready? \n\nHere's the added engagement a creator can expect IF they have a community: \n\nYouTube ➜ 30% increase in engagement rate.\nInstagram ➜ 38% increase in engagement rate.\nTikTok ➜ 20% increase in engagement rate.\n\nCreators! Don't think twice about starting a community! We found that the most common platforms are Discord, Patreon, Kajabi, and Thinkific. \n\nAnd brands, we have 100k+ of these community building creators. Reach out if you need access to our database. 😉 \n\nThere are A LOT more data-driven insights in the report. Check it out below.\n\nps. Thanks to all contributors to this report from Patreon, Kajabi, Nas Company, and Clubhouse. ",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQHV9mGcy4Azjw/feedshare-shrink_2048_1536/0/1707425291631?e=2147483647&v=beta&t=q2y7EUSNWl76glatmonTHAqtpgxgwpziqt4S6f3zASs",
-        "likeCount": 27,
-        "commentCount": 2,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623a6085aab775011b6ce69"
-        },
-        "urn": "urn:li:activity:7157480887222185984",
-        "profileImage": "https://media.licdn.com/dms/image/C4E03AQEIEN1eoeI2Bw/profile-displayphoto-shrink_400_400/0/1581886218024?e=2147483647&v=beta&t=ISa6g0Zx7rdhSU7K35sK782g3yVJqiG6OioxfJO3kbM",
-        "name": "Kiril Dameski",
-        "headline": "Helping A-star creator economy companies grow | Head of marketing @ Influencers Club",
-        "date": "2mo",
-        "text": "In a few weeks we’ll publish data on how much money Tiktokers with ≈100k fans made in 2023. \n\nBut check out the first reply we got from a creator. 👇 \n\nI created the survey with one question about their income and offered predefined answers. \n\nThe lowest option you can select is \"Under $10,000”. \n\nAs it turns out, the majority of the 20 respondents we have so far earned under 10k. \n\nI guess we need to modify the answers, offer even lower options, and start the survey again.\n\nIt will be interesting to see the actual numbers at the end.\n\np.s. all of these creators are from the US & UK. \n\np.p.s. once we have the chart for Tiktok we also plan on doing the same for Instagram and Youtube creators.\n\nStay tuned!",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQFRmMGkAnReGw/feedshare-shrink_800/0/1706476421506?e=2147483647&v=beta&t=eqOBJqtcPMpNA-eH9MuSP6ZI_ZY5ICZtCVlj4MhTwpY",
-        "likeCount": 40,
-        "commentCount": 1,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623a6085aab775011b6ce6a"
-        },
-        "urn": "urn:li:activity:7155259176837881856",
-        "profileImage": "https://media.licdn.com/dms/image/C4E03AQEIEN1eoeI2Bw/profile-displayphoto-shrink_400_400/0/1581886218024?e=2147483647&v=beta&t=ISa6g0Zx7rdhSU7K35sK782g3yVJqiG6OioxfJO3kbM",
-        "name": "Kiril Dameski",
-        "headline": "Helping A-star creator economy companies grow | Head of marketing @ Influencers Club",
-        "date": "2mo",
-        "text": "Have you noticed the trend of well-known creators quitting Youtube?\n\nHere’s why that’s happening:\n\nMost creators start by making videos around a topic they love.\n\nAfter a while, they get good at it and start gaining new subs.\n\nLife’s good.\n\nTo keep up, they start playing by YouTube's rules and that's when the treadmill starts. 🏃🏃🏼♀️🏃🏻♂️🏃🏻♀️ \n\nPublishing videos according to a schedule -> hiring a video editor -> negotiating brand deals -> managing finances -> coming up with new ideas -> hiring assistants -> searching for new brand deals -> CONSTANTLY PUBLISHING NEW VIDEOS!\n\nInitially, it was about creating fun videos. Now, most of their time is spent managing people.\n\nThey start to lose their passion, which often ends up with burnout. \n\nThat’s why so many quit. \n\nBut that’s not surprising, right? It’s always been this way.\n\nOver 90% of startups fail because growing a business is hard and not for everyone.\n\nTo end on a positive note, I think this is another sign that the #creatoreconomy is still developing.\n\nThe demand for tools and services to assist these new creator-led businesses will only increase.",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQGBH0ZIp0-f2A/feedshare-shrink_800/0/1705946724993?e=2147483647&v=beta&t=wUHQks1gSCgTIQ4Z7ciXLchprZ16AoFC-d2F52qKkws",
-        "likeCount": 44,
-        "commentCount": 4,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623a6085aab775011b6ce6b"
-        },
-        "urn": "urn:li:activity:7154899452359540736",
-        "profileImage": "https://media.licdn.com/dms/image/C4E03AQEIEN1eoeI2Bw/profile-displayphoto-shrink_400_400/0/1581886218024?e=2147483647&v=beta&t=ISa6g0Zx7rdhSU7K35sK782g3yVJqiG6OioxfJO3kbM",
-        "name": "Kiril Dameski",
-        "headline": "Helping A-star creator economy companies grow | Head of marketing @ Influencers Club",
-        "date": "2mo",
-        "text": "Kajabi creators have earned over $6 billion in total revenue. \n\nSo, what exactly can you do with a Kajabi subscription?\n\n1️⃣ Create and publish a course\n2️⃣ Launch an online community\n3️⃣ Get recurring revenue by offering memberships\n4️⃣ Organize personalized coaching sessions\n5️⃣ Create and distribute your own podcast\n6️⃣ plus you can do email marketing, website & landing page creation, and accept payments. \n\nMore info about the company: \n\n→ Target market: educators, entrepreneurs, coaches, content creators. \n→ Funding: $550M \n→ Team size: 390 (on Linkedin) \n→ Leadership: Ahad Khan (CEO), Sean (Solme) Kim (President and Chief Product Officer), Kenny Rueter (Executive Chairman & Co-founder) \n→ Basic pricing: $149/mo\n\n--------------------------------------------------------\n\nI’m trying to better understand top creator companies.\n\nWhat's their product, who are they serving, and overall, how are they influencing the creator economy. \n\nLet me know who should be next. 🙏 \n\nI’m thinking Jellysmack, Fanfix, or Fourthwall.",
-        "postImage": null,
-        "likeCount": 54,
-        "commentCount": 19,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623a6085aab775011b6ce6c"
-        },
-        "urn": "urn:li:activity:7153030650650898432",
-        "profileImage": "https://media.licdn.com/dms/image/C4E03AQEIEN1eoeI2Bw/profile-displayphoto-shrink_400_400/0/1581886218024?e=2147483647&v=beta&t=ISa6g0Zx7rdhSU7K35sK782g3yVJqiG6OioxfJO3kbM",
-        "name": "Kiril Dameski",
-        "headline": "Helping A-star creator economy companies grow | Head of marketing @ Influencers Club",
-        "date": "3mo",
-        "text": "What are creators linking in their link-in-bio pages?\n\nThis is a new analysis based on 745k creators with a link-in-bio page (Linktree, Koji, Beacons, etc.) that are in our database.\n\nIt’s interesting to see where creators are redirecting their followers.\n\nHappy (and surprised) to see LinkedIn so high on the list.\n\nA lot of #musicians and #podcasters are linking out to Spotify, Soundcloud, Apple Music & Bandcamp.\n\nThreads have a long way to go to come even near X.\n\nAnd if you’re wondering where Patreon is, they almost didn't make the cut (literally 2 places below Bandcamp).\n\nWhat other platform is missing here? 🤚 \n\n*whatsapp is a flaw in the data, so please disregard that.\n\n#creatoreconomy #creators ",
-        "postImage": "https://media.licdn.com/dms/image/D4D22AQFFM125AVhwgw/feedshare-shrink_800/0/1705410040873?e=2147483647&v=beta&t=NTRNlNVqtGBF5FmvZ0HgS25a1Dae9Oufti2AlCVPgoo",
-        "likeCount": 40,
-        "commentCount": 5,
-        "engagement": []
-      }
-    ],
-    "__v": 1
+    "name": "Gary Vaynerchuk",
+    "headline": "👇 Get My NEW BOOK!",
+    "profileImage": "https://media.licdn.com/dms/image/D4E03AQFwdSEyE9nhlw/profile-displayphoto-shrink_400_400/0/1712777093570?e=1721865600&v=beta&t=qHftjXKyNpqF5CgmtlCyiwH4b74n5Yu3J212OtxGh9Q",
+    "urn": "ACoAAACgAVMBb8w4dbaqCMriT5tTYE0H4M_oFKE",
+    "activityUrns": [],
+    "company": "Chairman of VaynerX, CEO of VaynerMedia - VaynerX ",
+    "publicId": "garyvaynerchuk"
   },
   {
-    "_id": {
-      "$oid": "6623b887f36ef8cdedc25994"
-    },
-    "activityUrns": [
-      "urn:li:activity:7186803193757024256",
-      "urn:li:activity:7186803142196445184",
-      "urn:li:activity:7186604052518957057",
-      "urn:li:activity:7184732291087187968",
-      "urn:li:activity:7183985514109132800",
-      "urn:li:activity:7183985509503758338",
-      "urn:li:activity:7183984601793540097",
-      "urn:li:activity:7183984549297635328",
-      "urn:li:activity:7183836677524623360",
-      "urn:li:activity:7183836664769724417",
-      "urn:li:activity:7183836565083734016",
-      "urn:li:activity:7183664254502277121",
-      "urn:li:activity:7183664229567066113",
-      "urn:li:activity:7183664126156574722",
-      "urn:li:activity:7183620688283410432",
-      "urn:li:activity:7183605451069034496",
-      "urn:li:activity:7183601064619749376",
-      "urn:li:activity:7183601058114404352",
-      "urn:li:activity:7183600939809882112",
-      "urn:li:activity:7183600879210541057"
-    ],
-    "needsUpdate": false,
-    "name": "Will Baumann",
-    "headline": "Co-founder & CEO at Fourthwall",
-    "profileImage": "https://media.licdn.com/dms/image/C4E03AQH6iKhwCvfslA/profile-displayphoto-shrink_400_400/0/1517701429503?e=1718841600&v=beta&t=YPZBHOK67IuEWkQIAp_LE6j-ZVvIPMufU8cBWHkID3Q",
-    "urn": "ACoAAAYEm1gBVpGpSeP3m9mHqPRlaHJNn0jNDP0",
-    "posts": [
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc25999"
-        },
-        "urn": "urn:li:activity:7187185777510965248",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "16h",
-        "text": "Build your brand. Not theirs.\n\nOne of my favorite Fourthwall features is that every creator gets their own mobile app. \n\nThese are designed as \"progressive web apps\" (PWAs), which means that creators can also avoid the Apple / Google 30% tax. \n\nThis is part of our mission of giving creators full ownership. You own your brand, your app, your data, your domain, and your website (down to the code). \n\nWe give you the tools to make it easier to connect with your superfans.Free mobile apps. Fully branded to you. Only on Fourthwall 📱 \n\nWe are thrilled to announce a unique feature only available on Fourthwall - the launch of fully branded mobile apps for all creators!\n\nStarting today, all creators who use Fourthwall to power their memberships will automatically gain access to their own mobile apps, offering an unparalleled level of convenience and member engagement. Creators who had early access to their own app saw an increase of up to 29% in engagement!",
-        "postImage": null,
-        "likeCount": 4,
-        "commentCount": 0,
-        "repost": {
-          "urn": "urn:li:activity:7127388692318445568",
-          "profileImage": "https://media.licdn.com/dms/image/C560BAQEp8D4PM7c_lw/company-logo_100_100/0/1630670626780/fw_logo?e=2147483647&v=beta&t=WYUk4O-QwcRkp9XO0gTqU6uxD5yIkMYgbdZHV-fwtSk",
-          "name": "Fourthwall",
-          "headline": "2,099 followers",
-          "date": "5mo",
-          "text": "Free mobile apps. Fully branded to you. Only on Fourthwall 📱 \n\nWe are thrilled to announce a unique feature only available on Fourthwall - the launch of fully branded mobile apps for all creators!\n\nStarting today, all creators who use Fourthwall to power their memberships will automatically gain access to their own mobile apps, offering an unparalleled level of convenience and member engagement. Creators who had early access to their own app saw an increase of up to 29% in engagement!",
-          "postImage": null,
-          "likeCount": 0,
-          "commentCount": 0
-        },
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc2599a"
-        },
-        "urn": "urn:li:activity:7183590715120128000",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "1w",
-        "text": "Excited to announce -\n\nFourthwall is now seamlessly integrated with YouTube Shopping! \n\nWhen connecting to YouTube through your Fourthwall account, you’ll be able to easily add your products to your YouTube Product Shelf and tag products in your videos. \n\nOne other perk with this new integration: it'll now show your brand under each product as opposed to \"Fourthwall\" (how it used to work). Part of our commitment to always putting your brand first. \n\nLet us know what you think below!",
-        "postImage": "https://media.licdn.com/dms/image/D5622AQHEBTLVHwAdWw/feedshare-shrink_2048_1536/0/1712701489802?e=2147483647&v=beta&t=OOfAw9OZKBmvSebl_HGgd7jib3YvEDnKOnYwHk3PveA",
-        "likeCount": 202,
-        "commentCount": 23,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc2599b"
-        },
-        "urn": "urn:li:activity:7181777493056499712",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "2w",
-        "text": "Upload your design. Sell it on multiple products. \n\nThis was the top feature request for creators on Fourthwall.\n\nExcited to finally ship this to the world. Let us know what you think of the experience below!One Design, Multiple Products 👀\n\nYes, it's really here.\n\nMany more updates to come, but this was heavily requested so we hope you love it 💙",
-        "postImage": null,
-        "likeCount": 17,
-        "commentCount": 2,
-        "repost": {
-          "urn": "urn:li:activity:7181758112104595456",
-          "profileImage": "https://media.licdn.com/dms/image/C560BAQEp8D4PM7c_lw/company-logo_100_100/0/1630670626780/fw_logo?e=2147483647&v=beta&t=WYUk4O-QwcRkp9XO0gTqU6uxD5yIkMYgbdZHV-fwtSk",
-          "name": "Fourthwall",
-          "headline": "2,099 followers",
-          "date": "2w",
-          "text": "One Design, Multiple Products 👀\n\nYes, it's really here.\n\nMany more updates to come, but this was heavily requested so we hope you love it 💙",
-          "postImage": null,
-          "likeCount": 0,
-          "commentCount": 0
-        },
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc2599c"
-        },
-        "urn": "urn:li:activity:7181462723522670592",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "2w",
-        "text": "You can now create your own blog on Fourthwall\n\nIntroducing public posts:\n\nThis has been a top request from creators for quite a while. Not only is it a valuable way to boost SEO to your site, but it also helps you grow your audience.\n\nLet me know what you think below!🌟 Introducing Public Posts 🌟\nCreate Memberships posts that anyone can see, but only members can interact with 💙",
-        "postImage": "https://media.licdn.com/dms/image/D5610AQE53lTDp7NuGw/image-shrink_1280/0/1712183912585?e=2147483647&v=beta&t=FTVF5_PoYWIl9gKzUuMmyoEWsEreCU3YQ4uuJ5XwlyQ",
-        "likeCount": 24,
-        "commentCount": 5,
-        "repost": {
-          "urn": "urn:li:activity:7181419835589894145",
-          "profileImage": "https://media.licdn.com/dms/image/C560BAQEp8D4PM7c_lw/company-logo_100_100/0/1630670626780/fw_logo?e=2147483647&v=beta&t=WYUk4O-QwcRkp9XO0gTqU6uxD5yIkMYgbdZHV-fwtSk",
-          "name": "Fourthwall",
-          "headline": "2,099 followers",
-          "date": "2w",
-          "text": "🌟 Introducing Public Posts 🌟\nCreate Memberships posts that anyone can see, but only members can interact with 💙",
-          "postImage": "https://media.licdn.com/dms/image/D5610AQE53lTDp7NuGw/image-shrink_1280/0/1712183912585?e=2147483647&v=beta&t=FTVF5_PoYWIl9gKzUuMmyoEWsEreCU3YQ4uuJ5XwlyQ",
-          "likeCount": 0,
-          "commentCount": 0
-        },
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc2599d"
-        },
-        "urn": "urn:li:activity:7179212370089508865",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "3w",
-        "text": "Want to get your design placement exactly right?\n\nLaunching today on Fourthwall, we’re making it easier than ever to place a logo on your merchandise. \n\nSelect placements on left chest, full width, centered, and more.\n\nJust one of 50+ improvements that we’re shipping over the next 7d to make it to easier to make premium apparel for your community.\n\nLet us know what you think!",
-        "postImage": null,
-        "likeCount": 95,
-        "commentCount": 9,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc2599e"
-        },
-        "urn": "urn:li:activity:7174434194171854848",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "1mo",
-        "text": "More creators have signed up on Fourthwall in the past 10 weeks than in our first 4 years combined. But my favorite part:\n\nHelping creators to launch their brands, build their business, give back to their community, and make life-changing money. All in a weekend.\n\nFourthwall is now the best place for individuals with audiences to sell products online — whether that's physical goods (from merch to hot sauce and more), digital products, or subscription memberships. \n\nWe're still at the very beginning of what Fourthwall will become, but we're focused on making the product 1% better every single day. We move fast to make these little details add up even faster. \n\nProps to Leah Cedeño for highlighting this in the video below.\n\nIf you're interested in launching your shop or scaling your brand, drop a note below. Excited to help more and more creative artists to succeed. Over 50,000 creators power their sites with Fourthwall 💪 Sign up today to get your own custom homepage, shop, and memberships for free! ✨",
-        "postImage": null,
-        "likeCount": 46,
-        "commentCount": 4,
-        "repost": {
-          "urn": "urn:li:activity:7174171648592396289",
-          "profileImage": "https://media.licdn.com/dms/image/C560BAQEp8D4PM7c_lw/company-logo_100_100/0/1630670626780/fw_logo?e=2147483647&v=beta&t=WYUk4O-QwcRkp9XO0gTqU6uxD5yIkMYgbdZHV-fwtSk",
-          "name": "Fourthwall",
-          "headline": "2,099 followers",
-          "date": "1mo",
-          "text": "Over 50,000 creators power their sites with Fourthwall 💪 Sign up today to get your own custom homepage, shop, and memberships for free! ✨",
-          "postImage": null,
-          "likeCount": 0,
-          "commentCount": 0
-        },
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc2599f"
-        },
-        "urn": "urn:li:activity:7173810109750398976",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "1mo",
-        "text": "Growth people - \n\nWhat tools do you use to run in product (post auth) experiments? \n\nSpecifically, we have a lot of different recommendations in the Fourthwall dashboard to help you launch your shop. We're looking to experiment with copy, ordering, imagery, etc to increase activations rates.\n\nWe're ideally looking for a tool (or tools) that:\n\n1. Allows for custom cohorts\n2. Is no code (at least post setup) for anyone to run\n3. Run experiments to stat sig\n4. Requires little/no maintenance\n\nDo you use anything for your team? If so, do you like it?",
-        "postImage": "https://media.licdn.com/dms/image/D5622AQG0ofIQpQkX9w/feedshare-shrink_2048_1536/0/1710369612111?e=2147483647&v=beta&t=krqfJJQ0zgDmosQiC6kcafHayYUJV5EUMJAViObjiEM",
-        "likeCount": 27,
-        "commentCount": 20,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc259a0"
-        },
-        "urn": "urn:li:activity:7173476299410272256",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "1mo",
-        "text": "The very first feature we ever built on Fourthwall? Letting fans leave a message on checkout.\n\nNot only does this increase conversion rates for creators (counter-intuitive for traditional ecomm), but it also builds community engagement. \n\nStarting today, you can now share these messages straight to socials. And of course, you can send a personalized thank you video to your fans for all orders.\n\nWould love your feedback. Let me know what you think about this release belowDid you know you can now share your favorite supporter messages directly to your socials? 👀 💖 Check it out now in the Fourthwall app 🌟",
-        "postImage": "https://media.licdn.com/dms/image/D5610AQHzhoNfJqnfcQ/image-shrink_1280/0/1710284037381?e=2147483647&v=beta&t=29t8QC0nTvwxQGCYrTwxF59lLN24EyPl6S3o8bLlbpc",
-        "likeCount": 21,
-        "commentCount": 3,
-        "repost": {
-          "urn": "urn:li:activity:7173451207275917312",
-          "profileImage": "https://media.licdn.com/dms/image/C560BAQEp8D4PM7c_lw/company-logo_100_100/0/1630670626780/fw_logo?e=2147483647&v=beta&t=WYUk4O-QwcRkp9XO0gTqU6uxD5yIkMYgbdZHV-fwtSk",
-          "name": "Fourthwall",
-          "headline": "2,099 followers",
-          "date": "1mo",
-          "text": "Did you know you can now share your favorite supporter messages directly to your socials? 👀 💖 Check it out now in the Fourthwall app 🌟",
-          "postImage": "https://media.licdn.com/dms/image/D5610AQHzhoNfJqnfcQ/image-shrink_1280/0/1710284037381?e=2147483647&v=beta&t=29t8QC0nTvwxQGCYrTwxF59lLN24EyPl6S3o8bLlbpc",
-          "likeCount": 0,
-          "commentCount": 0
-        },
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc259a1"
-        },
-        "urn": "urn:li:activity:7173079890089488384",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "1mo",
-        "text": "How often do you think creator sites get hit with DDoS attacks? \n\nAnswer:\n\nAt least on Fourthwall, we see these occur 1-2 times per day. \n\nI should also note that these aren't even targeted against \"offensive\" creators. They happen to creators that mostly make kids content. \n\nI'm sharing this chart from a few hours ago where we saw:\n - A spike of ~200k requests from a DDoS attack\n - 0 failures on our end\n\nWe've invested a lot in our core infrastructure to handle these without any downtime over the years, especially given the frequency with which these happen. \n\nI mostly think this is due to the asymmetric nature of an attack. You can ruin someone's big launch day by paying ~$100 for a DDoS (and potentially crashing their site if they don't use a platform like Fourthwall that protects you from these). The trolling nature of the internet makes this surprisingly common.\n\nWhen starting Fourthwall, I would have never guessed that we'd have needed to make such an investment in protecting against DDoS. But here we are. And I'm grateful that we can handle these without missing a beat (0 failed requests for today's attack). \n\nWhat do you think? Do you see a similar frequency of attacks in your space?",
-        "postImage": "https://media.licdn.com/dms/image/D4E22AQFxs1dIGpaJsA/feedshare-shrink_800/0/1710195513738?e=2147483647&v=beta&t=iI9DS0yhX8zKfuZgHtpOUmEcQmcF-zjccAdxCw1hbto",
-        "likeCount": 52,
-        "commentCount": 2,
-        "engagement": []
-      },
-      {
-        "_id": {
-          "$oid": "6623b889f36ef8cdedc259a2"
-        },
-        "urn": "urn:li:activity:7171550306412036096",
-        "profileImage": "https://media.licdn.com/dms/image/C5603AQHJjX1T4JqpCQ/profile-displayphoto-shrink_400_400/0/1629085500321?e=2147483647&v=beta&t=uxt4_jNlW86kR7uBefdctLTZwlpCMz78IQYGR3hjvGE",
-        "name": "Will Baumann",
-        "headline": "Co-founder & CEO at Fourthwall",
-        "date": "1mo",
-        "text": "At Fourthwall, we've grown SEO-based revenue 500%+ and impressions 1123%+ (and counting!). All without being SEO experts. How? Backstory time:\n\nWe’ve long assumed that SEO would be a key lever at Fourthwall. Why?\n - Most creators sites on Fourthwall (like MKBHD) have a “Powered by Fourthwall” backlink in the footer\n - Therefore our rapid creator growth should rapidly build domain authority\n\nBut we had no idea where to begin. Here's what happened next:\n\n1. Lenny Rachitsky interviewed Ethan Smith on his podcast about SEO. If you haven't listened, it's by far the most information-dense podcast on SEO. I immediately knew we had to work with the Ethan & the Graphite team. (PS - Lenny sells his new book on Fourthwall. You should buy one.)\n2. A few weeks later, I flew to one of Yuriy Timen's amazing founder dinners to meet Ethan (who now co-hosts these)\n3. At the dinner, I asked Ethan a 100+ SEO questions and pitched him on why they should let Fourthwall be one of the first users of Graphite's new self-serve tooling\n\nTwo weeks later, we got started. Five months later, results were booming 📈📈 (huge props to Cosette Libier from our team for owning the execution).\n\nAs a founder, I highly recommend Graphite's new self-serve platform. It immediately 100x'ed our abilities and will become the top SEO tool for teams that are serious about search-based growth the moment it's available to the public.\n\nThankfully, we get to keep our SEO competitive advantage for a bit longer as it's still waitlist only. But if you want early access (or just have questions about SEO in general), drop a comment below. ",
-        "postImage": "https://media.licdn.com/dms/image/D5622AQEBr320MnY0OQ/feedshare-shrink_2048_1536/0/1709830832308?e=2147483647&v=beta&t=vGeWDQ1QP_yoyyLRaIgDZLB3u_96xxXYVr6ZuU9pIBo",
-        "likeCount": 290,
-        "commentCount": 62,
-        "engagement": []
-      }
-    ],
-    "__v": 1
+    "name": "Dan Koe",
+    "headline": "The Art Of Focus is available now on Amazon. Building the future of the creator economy with Kortex.",
+    "profileImage": "https://media.licdn.com/dms/image/D5603AQFlPASi2r1u7w/profile-displayphoto-shrink_400_400/0/1700848916492?e=1721865600&v=beta&t=a1biHmS442yRNU0z1f3yZHE9enAhXWyLFHeJqaovG28",
+    "urn": "ACoAABu4MW8B4nIvcAIxUhZQTi_LSUN3-fcdIFk",
+    "activityUrns": [],
+    "company": "Co-Founder - Kortex",
+    "publicId": "thedankoe"
+  },
+  {
+    "activityUrns": [],
+    "name": "Alex Hormozi",
+    "headline": "Day Job: I invest and scale companies at Acquisition.com | Co-Owner, Skool.com\nSide Hustle: I make free content showing how we do it ⬇️",
+    "profileImage": "",
+    "urn": "ACoAAAUHE1IBE3DVpnF6zz3PljupLhC8chJWAXY"
+  },
+  {
+    "activityUrns": [],
+    "name": "Ray Dalio",
+    "headline": "Founder, CIO Mentor, and Member of the Bridgewater Board",
+    "profileImage": "https://media.licdn.com/dms/image/C5603AQEaAcHgvsm0UA/profile-displayphoto-shrink_800_800/0/1623860377413?e=1721865600&v=beta&t=YYdkmMbS_78MfLPZfjFGf8UL_Srp5hVxJni0T_8gqFs",
+    "urn": "ACoAABE9HH8BsvYrxj-dZxQzyqcPqmq7eVN4IP4",
+    "company": "Founder, CIO Mentor, and Member of the Bridgewater Board - Bridgewater Associates",
+    "publicId": "raydalio"
+  },
+  {
+    "name": "Sam Szuchan",
+    "headline": "Founder @ Soleo. Ghostwriting for the world's most innovative B2B leaders. Clients include Series A/B SaaS firms, YC-backed startups, and 8-figure marketing agencies.",
+    "profileImage": "https://media.licdn.com/dms/image/D4D03AQHMx1InJbODyQ/profile-displayphoto-shrink_400_400/0/1710473578734?e=1721865600&v=beta&t=URxCFsI5HILbVSChPygGkREvCr1cMi4B2uODu1WfKbA",
+    "urn": "ACoAADJxmOcB9ewkNVvLueDDab0UxS19_vB0-H0",
+    "activityUrns": [],
+    "company": "Founder - Soleo",
+    "publicId": "samuel-szuchan"
+  },
+  {
+    "name": "Colby Kultgen",
+    "headline": "1% Better | Former accountant, future author | Digestible & actionable personal development content",
+    "profileImage": "https://media.licdn.com/dms/image/D5603AQG5SxhvkYs7yA/profile-displayphoto-shrink_400_400/0/1711585134462?e=1721865600&v=beta&t=1ePtXu5NIQhkEYAGtOMHBr88ejyXE8lDNzVfbwkukM8",
+    "urn": "ACoAADvkfXkBA9XjaJ7lBC_LVoyL0fIjJnm6l80",
+    "activityUrns": [],
+    "company": "Writer - 1% Better · Self-employed",
+    "publicId": "colby-kultgen"
+  },
+  {
+    "name": "Hanna Larsson",
+    "headline": "I help founders build revenue growth, audience & personal brand 🔥 From 0 to $30M ARR | Startup & GTM Advisor & Builder 📈 ex-LinkedIn & ex-Remote 🦄 | Founder at Huntrs",
+    "profileImage": "https://media.licdn.com/dms/image/D4D03AQHBDwlpEikaCg/profile-displayphoto-shrink_400_400/0/1681762954993?e=1721865600&v=beta&t=VK5vqmqbKxRuY-3zQWeiedcg9XZXTGrW-RhCXKCo4EA",
+    "urn": "ACoAAAPSV0ABtIkvReoAAi4HomczTBrxcMUlSEo",
+    "activityUrns": [],
+    "company": "Go-To-Market & Startup Advisor, Business Coach & Content Creator - Hanna Larsson",
+    "publicId": "hlarsson"
+  },
+  {
+    "activityUrns": [],
+    "name": "Steven Bartlett",
+    "headline": "Flight Group, Thirdweb, The Diary Of A CEO.",
+    "profileImage": "https://media.licdn.com/dms/image/D4E03AQF_x8takWDCMA/profile-displayphoto-shrink_400_400/0/1680654583160?e=1721865600&v=beta&t=GyDMMREu7jU-TrbF1wDPIIh9F67YYr-EuL2QAcPGKCc",
+    "urn": "ACoAAAc-_yEBDbEZ0yk-N5U15AyZ8dwveDX9VKo",
+    "publicId": "stevenbartlett-123",
+    "company": "Flight Studio"
+  },
+  {
+    "name": "Justin Wright",
+    "headline": "Your success, my mission | CEO @ Polished Carbon | Ranked top 10 creator worldwide | DEIB ally | Follow for research-backed tips on leadership & self-mastery",
+    "profileImage": "https://media.licdn.com/dms/image/D5603AQEUsPGxK2GBWQ/profile-displayphoto-shrink_400_400/0/1685502726855?e=1721865600&v=beta&t=SvmI2G29qrN_NQHZSFOE2Hsfijjmn0NmxmXqXNISEto",
+    "urn": "ACoAAADDhDMBbLBhtJVMaS6QUzkyh0jD78M_s0s",
+    "activityUrns": [],
+    "company": "Co-Founder & CEO - Polished Carbon",
+    "publicId": "jwmba"
+  },
+  {
+    "name": "Victoria Repa",
+    "headline": "CEO & Founder of BetterMe, Health Coach, Harvard Guest Speaker, Forbes 30 Under 30. On a mission to create an inclusive, healthier world by inspiring change in people of all ages, shapes and backgrounds.",
+    "profileImage": "https://media.licdn.com/dms/image/D4D03AQH3lSFn0Uvk1Q/profile-displayphoto-shrink_400_400/0/1700839052909?e=1721865600&v=beta&t=WkelB8cryh9mv3uMMzjE1RuDU9fkgnJjQhvXSZwFde4",
+    "urn": "ACoAABJ7dmEBdViUQ9Oa-Dog8tFRDqE7lwRz_Wk",
+    "activityUrns": [],
+    "company": "CEO & Founder BetterMe - BetterMe",
+    "publicId": "victoria-repa-115a1987"
+  },
+  {
+    "name": "Justin Welsh",
+    "headline": "Building my one-person business to $10M in revenue. Posts and articles about the process.",
+    "profileImage": "https://media.licdn.com/dms/image/C4D03AQHL_ClqvZ6FIw/profile-displayphoto-shrink_400_400/0/1614377708325?e=1721865600&v=beta&t=KziMsb_JBxg9i2bVW5venmLBqyYuMjA5FdAn1f2W74I",
+    "urn": "ACoAAAD4GX4BScENIji6QoTu7_m8vC9m_doapuA",
+    "activityUrns": [],
+    "company": "Founder - Justin Welsh · Self-employed",
+    "publicId": "justinwelsh"
+  },
+  {
+    "name": "Tony Robbins",
+    "headline": "#1 New York Times best-selling author, life and business strategist, philanthropist, entrepreneur",
+    "profileImage": "https://media.licdn.com/dms/image/D5603AQG9MZAl-QsCsQ/profile-displayphoto-shrink_400_400/0/1685733220795?e=1721865600&v=beta&t=zQqMV27UTPPflxTbE97Kez6KAmMkWAeTNU4qlNH_EEc",
+    "urn": "ACoAAAYP6n4BS92YYnPON3wu45ItESdqxILazJs",
+    "activityUrns": [],
+    "company": "Chairman - Robbins Research International",
+    "publicId": "officialtonyrobbins"
+  },
+  {
+    "name": "Jay Shetty",
+    "headline": "Storyteller, Podcaster & Former Monk | Chief Purpose Officer at Calm",
+    "profileImage": "https://media.licdn.com/dms/image/D4E03AQHpE-t7HwfYJQ/profile-displayphoto-shrink_400_400/0/1704286291673?e=1721865600&v=beta&t=2hpRS4TDLHYLlUB5zdd_IRAQtDeyMg__wQgo6KU8wBA",
+    "urn": "ACoAAAw7F1MBgbR5tjiuylhswOmx7UizmnD7RC8",
+    "activityUrns": [],
+    "company": "Jay Shetty Media & Coaching - 8 yrs 5 mos",
+    "publicId": "shettyjay"
+  },
+  {
+    "name": "Grant Cardone",
+    "headline": "Private Equity Fund Manager & Real Estate Investor •$4.5BAUM • Cardone Capital • Cardone Ventures•10X Health System • Author • Cardone Vets • Cardone University • Entrepreneur | Text (305) 574-9093",
+    "profileImage": "https://media.licdn.com/dms/image/C5603AQGKCXSQe1Xgqg/profile-displayphoto-shrink_400_400/0/1526504027092?e=1721865600&v=beta&t=Ofxu5nUBoUW50wLNdxEzm8yt42tgPskEw0HAHdAUq6w",
+    "urn": "ACoAAAFVrwoBKWGuXzuQ8CDh_C2SES1C8Kx8jdU",
+    "activityUrns": [],
+    "company": "CEO - Cardone Capital",
+    "publicId": "grantcardone"
+  },
+  {
+    "name": "Richard Branson",
+    "headline": "Founder at Virgin Group",
+    "profileImage": "https://media.licdn.com/dms/image/C4D03AQHh6_Wth5f3rQ/profile-displayphoto-shrink_400_400/0/1625181963183?e=1721865600&v=beta&t=oETaO-2VDsBGtTanYWSkZBeDsZB0nOoEaFwBI85TX_Q",
+    "urn": "ACoAAAwp1RMBxG26M3Qkhm4klqLNr1bIplo6GhY",
+    "activityUrns": [],
+    "company": "Founder - Virgin Group",
+    "publicId": "rbranson"
+  },
+  {
+    "name": "Daymond John",
+    "headline": "CEO of FUBU and The Shark Group, TV Personality on ABC Shark Tank, Public Speaker",
+    "profileImage": "https://media.licdn.com/dms/image/C4D03AQGgN_joXLRMGw/profile-displayphoto-shrink_800_800/0/1571944750093?e=1721865600&v=beta&t=4cnpTWQWURbOlJ7lgffm7pO6Deanf5LhL5SPS6jlCNk",
+    "urn": "ACoAAAHMGO4BJnPOPFTh-UdW8QTl0c-LUqt1NEY",
+    "activityUrns": [],
+    "company": "TV Personality on \"Shark Tank\" - ABC Television",
+    "publicId": "daymondjohn"
+  },
+  {
+    "name": "Tim Ferriss",
+    "headline": "Author of 5 #1 NYT/WSJ bestsellers, early-stage investor, host of The Tim Ferriss Show podcast (1B+ downloads), and collector of the strange.",
+    "profileImage": "https://media.licdn.com/dms/image/D4E03AQFJUaA3RAZDIw/profile-displayphoto-shrink_400_400/0/1687979278495?e=1721865600&v=beta&t=VH_7SbJ0a9j9Qeqelgi6M9Kx5PZxASjQLTiuSmKTKkY",
+    "urn": "ACoAAAAAPIsBa2yhySEP_gcn6a21jMBYIr30UWM",
+    "activityUrns": [],
+    "company": "Principal - Angel Investor",
+    "publicId": "timferriss"
   }
 ]

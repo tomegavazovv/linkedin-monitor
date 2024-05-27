@@ -19,7 +19,8 @@ const {
   commentToProfile,
   likeToProfile,
   getEngagements,
-  getMonitoredUsersFromList
+  getMonitoredUsersFromList,
+  addDuplicateLists
 } = require('./methods/lists');
 const {
   hashPasswordIfInitialSave,
@@ -83,6 +84,7 @@ userSchema.methods.getSkippedPosts = getSkipped;
 userSchema.methods.commentToProfile = commentToProfile;
 userSchema.methods.likeToProfile = likeToProfile;
 userSchema.methods.getEngagements = getEngagements;
+userSchema.methods.addDuplicateLists = addDuplicateLists;
 
 userSchema.statics.getMonitoredUsersFromList = getMonitoredUsersFromList;
 userSchema.statics.getPostsFromList = getPostsFromList;

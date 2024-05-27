@@ -25,27 +25,42 @@ exports.addToList = catchAsync(async (req, res, next) => {
   const userId = req.user.id;
   const listId = req.params.id;
   const { publicId } = req.body;
-
-  const monitoredUser = await MonitoredUser.findOrCreate(req.body);
   const user = await User.findById(userId);
-  try {
-    await user.addMonitoredUserToList(listId, monitoredUser._id, publicId);
-    return res.status(201).json({
-      data: {
-        id: monitoredUser._id
-      }
-    });
-  } catch (err) {
-    if (err.message.includes('Limit')) {
-      return res.status(400).json({
-        status: 'Users Limit',
-        hours: err.message.split('[')[1].split(']')[0]
+  if (user.lists.id(listId).monitoredUsers.length < 25) {
+    const monitoredUser = await MonitoredUser.findOrCreate(req.body);
+    try {
+      await user.addMonitoredUserToList(listId, monitoredUser._id, publicId);
+      return res.status(201).json({
+        data: {
+          id: monitoredUser._id
+        }
       });
+    } catch (err) {
+      if (err.message.includes('Limit')) {
+        return res.status(400).json({
+          status: 'Users Limit',
+          hours: err.message.split('[')[1].split(']')[0]
+        });
+      }
     }
+  } else {
+    return res.status(400).json({
+      status: 'failed',
+      message: "You can't add more than 25 users in one list."
+    });
   }
-  // if (monitoredUser.needsUpdate) {
-  //   agenda.now('update monitored user', { monitoredUserId: monitoredUser._id });
-  // }
+});
+
+exports.addDuplicateLists = catchAsync(async (req, res, next) => {
+  const { id } = req.params;
+  const { count, loading } = req.body;
+
+  const user = await User.findById(req.user.id);
+  const dto = await user.addDuplicateLists(id, count, loading);
+
+  res.status(200).json({
+    data: dto
+  });
 });
 
 exports.getEngagements = catchAsync(async (req, res, next) => {
@@ -161,7 +176,7 @@ exports.commentToProfile = catchAsync(async (req, res, next) => {
 
   const user = await User.findById(req.user.id);
   await user.commentToProfile(id, urn, postUrn);
-  await user.skipPost(id, urn);
+  await user.skipPost(id, postUrn);
 
   res.status(200).json({ status: 'success' });
 });

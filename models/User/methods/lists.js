@@ -8,7 +8,7 @@ exports.addMonitoredUserToList = async function(
   const list = this.lists.id(listId);
   const hoursPassed = (Date.now() - this.lastAdded) / (1000 * 60 * 60);
 
-  if (this.totalAdded > 79) {
+  if (this.totalAdded > 179) {
     if (hoursPassed < 24) {
       throw new Error(`Limit [${Math.round(24 - hoursPassed) + 1}]`);
     }
@@ -44,6 +44,31 @@ exports.addNewList = async function(listName, loading, value) {
   });
   const user = await this.save();
   return user.lists.find(list => list.name === listName);
+};
+
+exports.addDuplicateLists = async function(listId, count, loading) {
+  const { name } = this.lists.id(listId);
+  const newListNames = [];
+  Array(count)
+    .fill(0)
+    .forEach((_, i) => {
+      newListNames.push(`${name} (${i + 2})`);
+      this.lists.push({
+        name: `${name} (${i + 2})`,
+        monitoredUsers: [],
+        loading
+      });
+    });
+
+  await this.save();
+
+  const listsDto = this.lists
+    .filter(
+      list => newListNames.findIndex(listName => list.name === listName) !== -1
+    )
+    .map(list => ({ name: list.name, id: list._id.toString() }));
+
+  return listsDto;
 };
 
 exports.updateListName = async function(listId, newListName) {

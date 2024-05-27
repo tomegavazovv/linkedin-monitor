@@ -1,11 +1,18 @@
 const crypto = require('crypto');
 const fs = require('fs');
+const path = require('path');
+
 const { promisify } = require('util');
 const jwt = require('jsonwebtoken');
 const { User } = require('./../models');
 const catchAsync = require('./../utils/catchAsync');
 const AppError = require('./../utils/appError');
 const sendEmail = require('./../utils/email');
+
+const defaultListPath = path.join(
+  __dirname,
+  '../dev-data/personal_growth_ids.json'
+);
 
 const signToken = id => {
   return jwt.sign({ id }, process.env.JWT_SECRET, {
@@ -48,14 +55,12 @@ exports.signup = catchAsync(async (req, res, next) => {
 
   const user = await User.findById(newUser._id);
 
-  const list = await user.addList('test');
+  const list = await user.addList('Personal Growth');
 
-  fs.readFile('dev-data/default_list.json', 'utf8', async function(err, data) {
-    const jsonData = JSON.parse(data); // Convert JSON string to JavaScript object
-
-    jsonData.forEach(mUser => {
-      const monitoredUserId = mUser._id.$oid;
-      user.lists.id(list.id).monitoredUsers.push(monitoredUserId);
+  fs.readFile(defaultListPath, 'utf8', async function(err, data) {
+    const defaultUsers = JSON.parse(data).users;
+    defaultUsers.forEach(mUserId => {
+      user.lists.id(list.id).monitoredUsers.push(mUserId);
     });
 
     await user.save();

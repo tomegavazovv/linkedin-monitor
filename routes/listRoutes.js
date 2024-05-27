@@ -38,5 +38,6 @@ router.delete('/:id/:userId', listController.deleteFromList);
 router.post('/:id/commentToProfile', listController.commentToProfile);
 router.post('/:id/likeToProfile', listController.likeToProfile);
 router.get('/:id/getListUrl', listController.getListUrl);
+router.post('/:id/addDuplicateLists', listController.addDuplicateLists);
 
 module.exports = router;
