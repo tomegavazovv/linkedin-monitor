@@ -1,5 +1,5 @@
 # Use a specific tag for the node image to avoid unexpected changes in the base image
-FROM node:20-alpine
+FROM node:18-alpine
 
 # Set the working directory inside the container
 WORKDIR /usr/src/app
